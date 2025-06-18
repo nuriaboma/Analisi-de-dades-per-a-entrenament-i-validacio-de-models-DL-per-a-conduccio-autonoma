@@ -8,10 +8,16 @@ Per muntar l'entorn de  `Python 2.7`, `keras 2.0.8` i `tensorflow-gpu 1.3` es ne
 
 El codi per muntar-lo està al principi de cada `Jupyter Notebook` en el que s'ha necessitat aquest entorn.
 
-Dades necessàries:
+Bases de dades necessàries:
 
 [ImageNet](https://drive.google.com/file/d/1aQ3sbgbaT1jJTzH7KmQGX4Y_oxRwBF7P/view?usp=sharing)
 
 [ImageNet(40 imgs)](https://drive.google.com/file/d/10O1U3IxP-Q4Zni0D6UPXUdmk95pKVxy8/view?usp=sharing)
 
 [GTSRB](https://drive.google.com/file/d/1Amp2lokDtiFdMwF4n6Uc6Opmu2uarmFD/view?usp=sharing)
+
+
+
+Per als experiments de DeepXplore i DLFuzz amb la base de dades GTSRB i els Models 1, 2 i 3 els pesos dels Models 1, 2 i 3 estan [aquí](https://drive.google.com/file/d/1o7V7NWVz8AS5naTU_9UI8DqEqIlA1nuG/view?usp=sharing).
+Els pesos dels Models 1, 2 i 3 reentrenats estan [aquí](https://drive.google.com/file/d/1c0lI5rSPw8CKc2MJIOtdxWfGtHruZWj5/view?usp=sharing).
+Els pesos de les diferents versions dels Models 1, 2 i 3 per a l'experiment 15 estan [aquí](https://drive.google.com/file/d/1P4xEysFWs5cq4ybc-PkMXbVgJxNahvGY/view?usp=sharing)
