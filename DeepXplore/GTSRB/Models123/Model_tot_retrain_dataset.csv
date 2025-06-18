@@ -1,0 +1,883 @@
+Width,Height,Roi.X1,Roi.Y1,Roi.X2,Roi.Y2,ClassId,Path
+39,38,5,6,34,33,13,/content/generated_inputs_trafficsigns_occl0/occl_No entry_Yield_Yield_0.png
+39,38,5,6,34,33,13,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_0.png
+39,38,5,6,34,33,13,/content/generated_inputs_trafficsigns_blackout2/blackout_Ahead only_Speed limit_30 km-h_Yield_0.png
+39,38,5,6,34,33,13,/content/generated_inputs_trafficsigns_blackout1/blackout_Vehicles over 3.5 metric tons prohibited_No passing for vehicles over 3.5 metric tons_Right-of-way at the next intersection_0.png
+39,38,5,6,34,33,13,/content/generated_inputs_trafficsigns_blackout0/blackout_Ahead only_Speed limit_30 km-h_Yield_0.png
+39,38,5,6,34,33,13,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_0.png
+39,38,5,6,34,33,13,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_0.png
+39,38,5,6,34,33,13,/content/generated_inputs_trafficsigns_occl1/occl_Yield_Speed limit_30 km-h_Yield_0.png
+39,39,5,5,34,34,4,/content/generated_inputs_trafficsigns_occl0/occl_Yield_Speed limit_70 km-h_Speed limit_70 km-h_1.png
+39,39,5,5,34,34,4,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_1.png
+39,39,5,5,34,34,4,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_1.png
+39,39,5,5,34,34,4,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_1.png
+39,39,5,5,34,34,4,/content/generated_inputs_trafficsigns_occl2/occl_Speed limit_70 km-h_Speed limit_70 km-h_Road work_1.png
+39,39,5,5,34,34,4,/content/generated_inputs_trafficsigns_occl1/occl_Speed limit_70 km-h_Yield_Speed limit_70 km-h_1.png
+47,52,6,5,41,46,39,/content/generated_inputs_trafficsigns_occl0/occl_General caution_Yield_Yield_2.png
+47,52,6,5,41,46,39,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_2.png
+47,52,6,5,41,46,39,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_2.png
+47,52,6,5,41,46,39,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_2.png
+47,52,6,5,41,46,39,/content/generated_inputs_trafficsigns_occl2/occl_Keep right_Yield_Yield_2.png
+47,52,6,5,41,46,39,/content/generated_inputs_trafficsigns_occl1/occl_Yield_Yield_Keep left_2.png
+34,34,6,5,29,29,9,/content/generated_inputs_trafficsigns_occl0/occl_Stop_Yield_Yield_3.png
+34,34,6,5,29,29,9,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_3.png
+34,34,6,5,29,29,9,/content/generated_inputs_trafficsigns_blackout2/blackout_Right-of-way at the next intersection_Yield_Yield_1.png
+34,34,6,5,29,29,9,/content/generated_inputs_trafficsigns_blackout0/blackout_Road work_Wild animals crossing_Traffic signals_1.png
+34,34,6,5,29,29,9,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_3.png
+34,34,6,5,29,29,9,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_3.png
+34,34,6,5,29,29,9,/content/generated_inputs_trafficsigns_occl2/occl_Keep right_Yield_Yield_3.png
+34,34,6,5,29,29,9,/content/generated_inputs_trafficsigns_occl1/occl_Stop_Speed limit_70 km-h_No passing_3.png
+36,35,5,6,31,30,22,/content/generated_inputs_trafficsigns_occl0/occl_Bumpy road_Yield_Yield_4.png
+36,35,5,6,31,30,22,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_4.png
+36,35,5,6,31,30,22,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_4.png
+36,35,5,6,31,30,22,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_4.png
+36,35,5,6,31,30,22,/content/generated_inputs_trafficsigns_occl2/occl_Yield_No vehicles_Bicycles crossing_4.png
+36,35,5,6,31,30,22,/content/generated_inputs_trafficsigns_occl1/occl_Bumpy road_Yield_Yield_4.png
+26,27,5,5,21,22,12,/content/generated_inputs_trafficsigns_occl0/occl_No entry_Priority road_Yield_5.png
+26,27,5,5,21,22,12,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_5.png
+26,27,5,5,21,22,12,/content/generated_inputs_trafficsigns_blackout1/blackout_Vehicles over 3.5 metric tons prohibited_Vehicles over 3.5 metric tons prohibited_Right-of-way at the next intersection_3.png
+26,27,5,5,21,22,12,/content/generated_inputs_trafficsigns_blackout0/blackout_Vehicles over 3.5 metric tons prohibited_Vehicles over 3.5 metric tons prohibited_Right-of-way at the next intersection_2.png
+26,27,5,5,21,22,12,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_5.png
+26,27,5,5,21,22,12,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_5.png
+26,27,5,5,21,22,12,/content/generated_inputs_trafficsigns_occl2/occl_Priority road_Yield_Priority road_5.png
+26,27,5,5,21,22,12,/content/generated_inputs_trafficsigns_occl1/occl_Yield_Priority road_Priority road_5.png
+42,42,5,5,37,37,12,/content/generated_inputs_trafficsigns_occl0/occl_Keep right_Priority road_Priority road_6.png
+42,42,5,5,37,37,12,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_6.png
+42,42,5,5,37,37,12,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_6.png
+42,42,5,5,37,37,12,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_6.png
+42,42,5,5,37,37,12,/content/generated_inputs_trafficsigns_occl2/occl_Priority road_Yield_Priority road_6.png
+42,42,5,5,37,37,12,/content/generated_inputs_trafficsigns_occl1/occl_Priority road_Road work_Priority road_6.png
+38,40,6,5,32,34,38,/content/generated_inputs_trafficsigns_occl0/occl_Priority road_Yield_Keep right_7.png
+38,40,6,5,32,34,38,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_7.png
+38,40,6,5,32,34,38,/content/generated_inputs_trafficsigns_light2/light_Keep right_Yield_Speed limit_20 km-h_7.png
+38,40,6,5,32,34,38,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_7.png
+38,40,6,5,32,34,38,/content/generated_inputs_trafficsigns_occl2/occl_Keep right_Yield_Keep right_7.png
+38,40,6,5,32,34,38,/content/generated_inputs_trafficsigns_occl1/occl_Keep right_Yield_Keep right_7.png
+47,47,6,5,42,42,38,/content/generated_inputs_trafficsigns_occl0/occl_Keep right_Yield_Keep right_8.png
+47,47,6,5,42,42,38,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_8.png
+47,47,6,5,42,42,38,/content/generated_inputs_trafficsigns_blackout1/blackout_Keep right_Bicycles crossing_Keep right_4.png
+47,47,6,5,42,42,38,/content/generated_inputs_trafficsigns_blackout0/blackout_No entry_No vehicles_Priority road_3.png
+47,47,6,5,42,42,38,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_8.png
+47,47,6,5,42,42,38,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_8.png
+47,47,6,5,42,42,38,/content/generated_inputs_trafficsigns_occl2/occl_Keep right_Yield_Keep right_8.png
+47,47,6,5,42,42,38,/content/generated_inputs_trafficsigns_occl1/occl_Keep right_Yield_Keep right_8.png
+51,50,6,5,46,45,35,/content/generated_inputs_trafficsigns_occl0/occl_Ahead only_Yield_Ahead only_9.png
+51,50,6,5,46,45,35,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_9.png
+51,50,6,5,46,45,35,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_9.png
+51,50,6,5,46,45,35,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_9.png
+51,50,6,5,46,45,35,/content/generated_inputs_trafficsigns_occl2/occl_Ahead only_Yield_Yield_9.png
+51,50,6,5,46,45,35,/content/generated_inputs_trafficsigns_occl1/occl_Ahead only_Yield_Ahead only_9.png
+56,60,5,5,51,55,1,/content/generated_inputs_trafficsigns_occl0/occl_Keep right_Speed limit_30 km-h_Speed limit_30 km-h_10.png
+56,60,5,5,51,55,1,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_10.png
+56,60,5,5,51,55,1,/content/generated_inputs_trafficsigns_blackout2/blackout_Speed limit_70 km-h_Speed limit_70 km-h_General caution_4.png
+56,60,5,5,51,55,1,/content/generated_inputs_trafficsigns_blackout1/blackout_Speed limit_20 km-h_No entry_Dangerous curve to the right_5.png
+56,60,5,5,51,55,1,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_10.png
+56,60,5,5,51,55,1,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_10.png
+56,60,5,5,51,55,1,/content/generated_inputs_trafficsigns_occl2/occl_Speed limit_30 km-h_Speed limit_30 km-h_Road work_10.png
+56,60,5,5,51,55,1,/content/generated_inputs_trafficsigns_occl1/occl_Speed limit_30 km-h_Yield_Speed limit_30 km-h_10.png
+30,31,6,5,25,26,17,/content/generated_inputs_trafficsigns_occl0/occl_Stop_No entry_No entry_11.png
+30,31,6,5,25,26,17,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_11.png
+30,31,6,5,25,26,17,/content/generated_inputs_trafficsigns_blackout0/blackout_Right-of-way at the next intersection_Wild animals crossing_Right-of-way at the next intersection_5.png
+30,31,6,5,25,26,17,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_11.png
+30,31,6,5,25,26,17,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_11.png
+30,31,6,5,25,26,17,/content/generated_inputs_trafficsigns_occl2/occl_No entry_Speed limit_30 km-h_Road work_11.png
+30,31,6,5,25,26,17,/content/generated_inputs_trafficsigns_occl1/occl_No entry_Speed limit_30 km-h_Road work_11.png
+45,42,5,5,40,37,5,/content/generated_inputs_trafficsigns_occl0/occl_Stop_Speed limit_60 km-h_Speed limit_50 km-h_12.png
+45,42,5,5,40,37,5,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_12.png
+45,42,5,5,40,37,5,/content/generated_inputs_trafficsigns_blackout2/blackout_Stop_Speed limit_30 km-h_Speed limit_30 km-h_5.png
+45,42,5,5,40,37,5,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_12.png
+45,42,5,5,40,37,5,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_12.png
+45,42,5,5,40,37,5,/content/generated_inputs_trafficsigns_occl2/occl_Speed limit_80 km-h_Speed limit_30 km-h_Speed limit_30 km-h_12.png
+45,42,5,5,40,37,5,/content/generated_inputs_trafficsigns_occl1/occl_Speed limit_30 km-h_Speed limit_30 km-h_Speed limit_50 km-h_12.png
+40,39,6,6,35,34,25,/content/generated_inputs_trafficsigns_occl0/occl_Stop_Road work_Road work_13.png
+40,39,6,6,35,34,25,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_13.png
+40,39,6,6,35,34,25,/content/generated_inputs_trafficsigns_blackout2/blackout_Speed limit_70 km-h_Traffic signals_General caution_98.png
+40,39,6,6,35,34,25,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_13.png
+40,39,6,6,35,34,25,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_13.png
+40,39,6,6,35,34,25,/content/generated_inputs_trafficsigns_occl2/occl_Keep right_Road work_Dangerous curve to the right_13.png
+40,39,6,6,35,34,25,/content/generated_inputs_trafficsigns_occl1/occl_End of all speed and passing limits_Yield_Road work_13.png
+39,36,6,5,34,31,31,/content/generated_inputs_trafficsigns_occl0/occl_Speed limit_50 km-h_Speed limit_50 km-h_Wild animals crossing_14.png
+39,36,6,5,34,31,31,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_14.png
+39,36,6,5,34,31,31,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_14.png
+39,36,6,5,34,31,31,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_14.png
+39,36,6,5,34,31,31,/content/generated_inputs_trafficsigns_occl2/occl_Keep right_Yield_Yield_14.png
+39,36,6,5,34,31,31,/content/generated_inputs_trafficsigns_occl1/occl_Keep right_Speed limit_30 km-h_Road work_14.png
+27,25,5,5,22,20,38,/content/generated_inputs_trafficsigns_occl0/occl_Keep right_Yield_Yield_15.png
+27,25,5,5,22,20,38,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_15.png
+27,25,5,5,22,20,38,/content/generated_inputs_trafficsigns_blackout2/blackout_General caution_General caution_Traffic signals_6.png
+27,25,5,5,22,20,38,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_15.png
+27,25,5,5,22,20,38,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_15.png
+27,25,5,5,22,20,38,/content/generated_inputs_trafficsigns_occl2/occl_Keep right_Keep right_Yield_15.png
+27,25,5,5,22,20,38,/content/generated_inputs_trafficsigns_occl1/occl_Keep right_End of all speed and passing limits_Keep right_15.png
+76,77,7,7,70,70,12,/content/generated_inputs_trafficsigns_occl0/occl_Yield_Priority road_Priority road_16.png
+76,77,7,7,70,70,12,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_16.png
+76,77,7,7,70,70,12,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_16.png
+76,77,7,7,70,70,12,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_16.png
+76,77,7,7,70,70,12,/content/generated_inputs_trafficsigns_occl2/occl_Priority road_Yield_Yield_16.png
+76,77,7,7,70,70,12,/content/generated_inputs_trafficsigns_occl1/occl_Priority road_Yield_Yield_16.png
+43,43,5,5,37,37,18,/content/generated_inputs_trafficsigns_occl0/occl_General caution_Yield_Road work_17.png
+43,43,5,5,37,37,18,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_Road work_Bicycles crossing_17.png
+43,43,5,5,37,37,18,/content/generated_inputs_trafficsigns_blackout0/blackout_Bicycles crossing_Speed limit_120 km-h_Speed limit_80 km-h_6.png
+43,43,5,5,37,37,18,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_17.png
+43,43,5,5,37,37,18,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_17.png
+43,43,5,5,37,37,18,/content/generated_inputs_trafficsigns_occl2/occl_General caution_Road narrows on the right_Dangerous curve to the right_17.png
+43,43,5,5,37,37,18,/content/generated_inputs_trafficsigns_occl1/occl_General caution_Road narrows on the right_General caution_17.png
+43,43,5,5,38,38,36,/content/generated_inputs_trafficsigns_occl0/occl_End of all speed and passing limits_Yield_Yield_18.png
+43,43,5,5,38,38,36,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_18.png
+43,43,5,5,38,38,36,/content/generated_inputs_trafficsigns_blackout2/blackout_Go straight or right_Go straight or right_Bicycles crossing_8.png
+43,43,5,5,38,38,36,/content/generated_inputs_trafficsigns_light2/light_Keep right_Yield_Speed limit_20 km-h_18.png
+43,43,5,5,38,38,36,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_18.png
+43,43,5,5,38,38,36,/content/generated_inputs_trafficsigns_occl2/occl_Keep right_Yield_Keep right_18.png
+43,43,5,5,38,38,36,/content/generated_inputs_trafficsigns_occl1/occl_Keep right_Yield_Yield_18.png
+48,56,1,6,43,51,15,/content/generated_inputs_trafficsigns_occl0/occl_Keep right_No vehicles_Yield_19.png
+48,56,1,6,43,51,15,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_19.png
+48,56,1,6,43,51,15,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_19.png
+48,56,1,6,43,51,15,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_19.png
+48,56,1,6,43,51,15,/content/generated_inputs_trafficsigns_occl2/occl_No vehicles_Yield_Yield_19.png
+48,56,1,6,43,51,15,/content/generated_inputs_trafficsigns_occl1/occl_No vehicles_Yield_Yield_19.png
+50,53,6,6,45,48,12,/content/generated_inputs_trafficsigns_occl0/occl_Priority road_Yield_Road work_20.png
+50,53,6,6,45,48,12,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_20.png
+50,53,6,6,45,48,12,/content/generated_inputs_trafficsigns_blackout2/blackout_Yield_Speed limit_30 km-h_Priority road_9.png
+50,53,6,6,45,48,12,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_20.png
+50,53,6,6,45,48,12,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_20.png
+50,53,6,6,45,48,12,/content/generated_inputs_trafficsigns_occl2/occl_Priority road_Speed limit_70 km-h_Priority road_20.png
+50,53,6,6,45,48,12,/content/generated_inputs_trafficsigns_occl1/occl_Priority road_Yield_Priority road_20.png
+27,28,5,5,22,23,17,/content/generated_inputs_trafficsigns_occl0/occl_Road work_Yield_Yield_21.png
+27,28,5,5,22,23,17,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_21.png
+27,28,5,5,22,23,17,/content/generated_inputs_trafficsigns_blackout1/blackout_Yield_Speed limit_80 km-h_Priority road_9.png
+27,28,5,5,22,23,17,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_21.png
+27,28,5,5,22,23,17,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_21.png
+27,28,5,5,22,23,17,/content/generated_inputs_trafficsigns_occl2/occl_No entry_Yield_Road work_21.png
+27,28,5,5,22,23,17,/content/generated_inputs_trafficsigns_occl1/occl_No entry_Road work_Yield_21.png
+40,41,5,5,35,36,14,/content/generated_inputs_trafficsigns_occl0/occl_Yield_Speed limit_60 km-h_Yield_22.png
+40,41,5,5,35,36,14,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_22.png
+40,41,5,5,35,36,14,/content/generated_inputs_trafficsigns_blackout0/blackout_End of no passing_No passing_No passing for vehicles over 3.5 metric tons_9.png
+40,41,5,5,35,36,14,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_22.png
+40,41,5,5,35,36,14,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_22.png
+40,41,5,5,35,36,14,/content/generated_inputs_trafficsigns_occl2/occl_Stop_Yield_Yield_22.png
+40,41,5,5,35,36,14,/content/generated_inputs_trafficsigns_occl1/occl_Keep right_Yield_Yield_22.png
+28,27,6,5,23,22,16,/content/generated_inputs_trafficsigns_occl0/occl_Stop_Yield_Dangerous curve to the right_23.png
+28,27,6,5,23,22,16,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_23.png
+28,27,6,5,23,22,16,/content/generated_inputs_trafficsigns_blackout2/blackout_Ahead only_Road work_Speed limit_100 km-h_10.png
+28,27,6,5,23,22,16,/content/generated_inputs_trafficsigns_blackout1/blackout_Yield_Yield_No vehicles_10.png
+28,27,6,5,23,22,16,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_23.png
+28,27,6,5,23,22,16,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_23.png
+28,27,6,5,23,22,16,/content/generated_inputs_trafficsigns_occl2/occl_Keep right_Yield_Yield_23.png
+28,27,6,5,23,22,16,/content/generated_inputs_trafficsigns_occl1/occl_Stop_Speed limit_60 km-h_Dangerous curve to the right_23.png
+40,42,5,6,35,37,3,/content/generated_inputs_trafficsigns_occl0/occl_Speed limit_60 km-h_Yield_Speed limit_60 km-h_24.png
+40,42,5,6,35,37,3,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_24.png
+40,42,5,6,35,37,3,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_24.png
+40,42,5,6,35,37,3,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_24.png
+40,42,5,6,35,37,3,/content/generated_inputs_trafficsigns_occl2/occl_Speed limit_60 km-h_Yield_Yield_24.png
+40,42,5,6,35,37,3,/content/generated_inputs_trafficsigns_occl1/occl_Speed limit_60 km-h_Yield_Speed limit_60 km-h_24.png
+40,38,5,6,35,33,25,/content/generated_inputs_trafficsigns_occl0/occl_Stop_Road work_Road work_25.png
+40,38,5,6,35,33,25,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_25.png
+40,38,5,6,35,33,25,/content/generated_inputs_trafficsigns_blackout2/blackout_General caution_Road work_Road work_11.png
+40,38,5,6,35,33,25,/content/generated_inputs_trafficsigns_blackout0/blackout_Go straight or right_No vehicles_No vehicles_11.png
+40,38,5,6,35,33,25,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_25.png
+40,38,5,6,35,33,25,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_25.png
+40,38,5,6,35,33,25,/content/generated_inputs_trafficsigns_occl2/occl_Road work_Yield_Road work_25.png
+40,38,5,6,35,33,25,/content/generated_inputs_trafficsigns_occl1/occl_Yield_Road work_Road work_25.png
+62,60,6,5,56,55,1,/content/generated_inputs_trafficsigns_occl0/occl_Stop_Speed limit_30 km-h_Speed limit_30 km-h_26.png
+62,60,6,5,56,55,1,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_26.png
+62,60,6,5,56,55,1,/content/generated_inputs_trafficsigns_blackout1/blackout_General caution_Speed limit_30 km-h_Speed limit_30 km-h_12.png
+62,60,6,5,56,55,1,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_26.png
+62,60,6,5,56,55,1,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_26.png
+62,60,6,5,56,55,1,/content/generated_inputs_trafficsigns_occl2/occl_Speed limit_30 km-h_Speed limit_30 km-h_Yield_26.png
+62,60,6,5,56,55,1,/content/generated_inputs_trafficsigns_occl1/occl_Speed limit_30 km-h_Yield_Speed limit_30 km-h_26.png
+46,47,6,6,41,42,9,/content/generated_inputs_trafficsigns_occl0/occl_Stop_Yield_Yield_27.png
+46,47,6,6,41,42,9,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_27.png
+46,47,6,6,41,42,9,/content/generated_inputs_trafficsigns_blackout2/blackout_Go straight or right_Road work_Yield_12.png
+46,47,6,6,41,42,9,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_27.png
+46,47,6,6,41,42,9,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_27.png
+46,47,6,6,41,42,9,/content/generated_inputs_trafficsigns_occl2/occl_Keep right_Yield_Yield_27.png
+46,47,6,6,41,42,9,/content/generated_inputs_trafficsigns_occl1/occl_Keep right_Yield_Yield_27.png
+49,46,5,6,44,41,31,/content/generated_inputs_trafficsigns_occl0/occl_Stop_Road work_Yield_28.png
+49,46,5,6,44,41,31,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_28.png
+49,46,5,6,44,41,31,/content/generated_inputs_trafficsigns_blackout1/blackout_Road work_Road work_Wild animals crossing_13.png
+49,46,5,6,44,41,31,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_28.png
+49,46,5,6,44,41,31,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_28.png
+49,46,5,6,44,41,31,/content/generated_inputs_trafficsigns_occl2/occl_Wild animals crossing_Yield_Speed limit_30 km-h_28.png
+49,46,5,6,44,41,31,/content/generated_inputs_trafficsigns_occl1/occl_Wild animals crossing_Yield_Yield_28.png
+63,54,6,5,58,49,13,/content/generated_inputs_trafficsigns_occl0/occl_Speed limit_50 km-h_Yield_Yield_29.png
+63,54,6,5,58,49,13,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_29.png
+63,54,6,5,58,49,13,/content/generated_inputs_trafficsigns_blackout0/blackout_Yield_Yield_Speed limit_50 km-h_13.png
+63,54,6,5,58,49,13,/content/generated_inputs_trafficsigns_light2/light_Keep right_Yield_Speed limit_20 km-h_29.png
+63,54,6,5,58,49,13,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_29.png
+63,54,6,5,58,49,13,/content/generated_inputs_trafficsigns_occl1/occl_Yield_Road work_Yield_29.png
+32,54,6,5,27,49,14,/content/generated_inputs_trafficsigns_occl0/occl_Keep right_Yield_Yield_30.png
+32,54,6,5,27,49,14,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_30.png
+32,54,6,5,27,49,14,/content/generated_inputs_trafficsigns_blackout2/blackout_Stop_Yield_Stop_13.png
+32,54,6,5,27,49,14,/content/generated_inputs_trafficsigns_light2/light_Keep right_Yield_Speed limit_20 km-h_30.png
+32,54,6,5,27,49,14,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_30.png
+32,54,6,5,27,49,14,/content/generated_inputs_trafficsigns_occl2/occl_Stop_Yield_Yield_30.png
+32,54,6,5,27,49,14,/content/generated_inputs_trafficsigns_occl1/occl_Keep right_Yield_Yield_30.png
+48,51,5,5,43,46,3,/content/generated_inputs_trafficsigns_occl0/occl_End of speed limit_80 km-h_Speed limit_60 km-h_Speed limit_60 km-h_31.png
+48,51,5,5,43,46,3,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_31.png
+48,51,5,5,43,46,3,/content/generated_inputs_trafficsigns_blackout1/blackout_Go straight or left_Speed limit_60 km-h_Speed limit_50 km-h_14.png
+48,51,5,5,43,46,3,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_31.png
+48,51,5,5,43,46,3,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_31.png
+48,51,5,5,43,46,3,/content/generated_inputs_trafficsigns_occl2/occl_Speed limit_60 km-h_Speed limit_60 km-h_Keep right_31.png
+48,51,5,5,43,46,3,/content/generated_inputs_trafficsigns_occl1/occl_Speed limit_60 km-h_Yield_Yield_31.png
+64,58,5,5,59,53,28,/content/generated_inputs_trafficsigns_occl0/occl_Keep right_Yield_Children crossing_32.png
+64,58,5,5,59,53,28,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_32.png
+64,58,5,5,59,53,28,/content/generated_inputs_trafficsigns_blackout2/blackout_Keep right_Children crossing_Children crossing_14.png
+64,58,5,5,59,53,28,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_32.png
+64,58,5,5,59,53,28,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_32.png
+64,58,5,5,59,53,28,/content/generated_inputs_trafficsigns_occl2/occl_Children crossing_Children crossing_Road work_32.png
+64,58,5,5,59,53,28,/content/generated_inputs_trafficsigns_occl1/occl_Keep right_Children crossing_Yield_32.png
+117,111,11,9,107,102,31,/content/generated_inputs_trafficsigns_occl0/occl_Wild animals crossing_Speed limit_60 km-h_Wild animals crossing_33.png
+117,111,11,9,107,102,31,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_33.png
+117,111,11,9,107,102,31,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_33.png
+117,111,11,9,107,102,31,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_33.png
+117,111,11,9,107,102,31,/content/generated_inputs_trafficsigns_occl2/occl_Wild animals crossing_Yield_Road work_33.png
+117,111,11,9,107,102,31,/content/generated_inputs_trafficsigns_occl1/occl_Wild animals crossing_Road work_Road work_33.png
+74,72,7,7,68,66,31,/content/generated_inputs_trafficsigns_occl0/occl_Wild animals crossing_Yield_Wild animals crossing_34.png
+74,72,7,7,68,66,31,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_34.png
+74,72,7,7,68,66,31,/content/generated_inputs_trafficsigns_blackout0/blackout_General caution_Wild animals crossing_Wild animals crossing_15.png
+74,72,7,7,68,66,31,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_34.png
+74,72,7,7,68,66,31,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_34.png
+74,72,7,7,68,66,31,/content/generated_inputs_trafficsigns_occl2/occl_Wild animals crossing_Yield_Yield_34.png
+74,72,7,7,68,66,31,/content/generated_inputs_trafficsigns_occl1/occl_Yield_Yield_Wild animals crossing_34.png
+64,97,6,8,59,89,13,/content/generated_inputs_trafficsigns_occl0/occl_No vehicles_Yield_Yield_35.png
+64,97,6,8,59,89,13,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_35.png
+64,97,6,8,59,89,13,/content/generated_inputs_trafficsigns_light2/light_Keep right_Yield_Speed limit_20 km-h_35.png
+64,97,6,8,59,89,13,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_35.png
+64,97,6,8,59,89,13,/content/generated_inputs_trafficsigns_occl1/occl_Yield_Road work_Yield_35.png
+42,43,5,5,36,37,40,/content/generated_inputs_trafficsigns_occl0/occl_Yield_Roundabout mandatory_Roundabout mandatory_36.png
+42,43,5,5,36,37,40,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_36.png
+42,43,5,5,36,37,40,/content/generated_inputs_trafficsigns_blackout1/blackout_Speed limit_20 km-h_No entry_Keep right_16.png
+42,43,5,5,36,37,40,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_36.png
+42,43,5,5,36,37,40,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_36.png
+42,43,5,5,36,37,40,/content/generated_inputs_trafficsigns_occl2/occl_Keep right_Roundabout mandatory_Yield_36.png
+42,43,5,5,36,37,40,/content/generated_inputs_trafficsigns_occl1/occl_Go straight or left_Yield_Roundabout mandatory_36.png
+123,125,10,11,113,115,1,/content/generated_inputs_trafficsigns_occl0/occl_Wild animals crossing_Speed limit_30 km-h_Speed limit_30 km-h_37.png
+123,125,10,11,113,115,1,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_37.png
+123,125,10,11,113,115,1,/content/generated_inputs_trafficsigns_blackout2/blackout_Speed limit_30 km-h_No vehicles_Speed limit_30 km-h_16.png
+123,125,10,11,113,115,1,/content/generated_inputs_trafficsigns_blackout0/blackout_Road work_Children crossing_Speed limit_30 km-h_17.png
+123,125,10,11,113,115,1,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_37.png
+123,125,10,11,113,115,1,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_37.png
+123,125,10,11,113,115,1,/content/generated_inputs_trafficsigns_occl2/occl_Speed limit_30 km-h_Speed limit_30 km-h_Yield_37.png
+123,125,10,11,113,115,1,/content/generated_inputs_trafficsigns_occl1/occl_Speed limit_30 km-h_Yield_Speed limit_30 km-h_37.png
+45,39,6,5,39,34,26,/content/generated_inputs_trafficsigns_occl0/occl_Traffic signals_Yield_Yield_38.png
+45,39,6,5,39,34,26,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_38.png
+45,39,6,5,39,34,26,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_38.png
+45,39,6,5,39,34,26,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_38.png
+45,39,6,5,39,34,26,/content/generated_inputs_trafficsigns_occl2/occl_Traffic signals_Yield_Yield_38.png
+45,39,6,5,39,34,26,/content/generated_inputs_trafficsigns_occl1/occl_Traffic signals_Yield_Traffic signals_38.png
+86,87,7,7,79,80,37,/content/generated_inputs_trafficsigns_occl0/occl_Keep right_Yield_Yield_39.png
+86,87,7,7,79,80,37,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_39.png
+86,87,7,7,79,80,37,/content/generated_inputs_trafficsigns_blackout0/blackout_Roundabout mandatory_Priority road_No vehicles_18.png
+86,87,7,7,79,80,37,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_39.png
+86,87,7,7,79,80,37,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_39.png
+86,87,7,7,79,80,37,/content/generated_inputs_trafficsigns_occl2/occl_Go straight or left_Speed limit_60 km-h_Yield_39.png
+86,87,7,7,79,80,37,/content/generated_inputs_trafficsigns_occl1/occl_Go straight or left_Yield_Go straight or left_39.png
+40,40,5,6,35,35,8,/content/generated_inputs_trafficsigns_occl0/occl_Speed limit_120 km-h_Speed limit_120 km-h_Speed limit_70 km-h_41.png
+40,40,5,6,35,35,8,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_41.png
+40,40,5,6,35,35,8,/content/generated_inputs_trafficsigns_blackout1/blackout_Keep right_Speed limit_70 km-h_General caution_19.png
+40,40,5,6,35,35,8,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_41.png
+40,40,5,6,35,35,8,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_41.png
+40,40,5,6,35,35,8,/content/generated_inputs_trafficsigns_occl2/occl_Yield_Speed limit_70 km-h_Speed limit_20 km-h_41.png
+40,40,5,6,35,35,8,/content/generated_inputs_trafficsigns_occl1/occl_Stop_Yield_Speed limit_20 km-h_41.png
+30,31,5,6,25,26,10,/content/generated_inputs_trafficsigns_occl0/occl_No passing for vehicles over 3.5 metric tons_Road work_Yield_42.png
+30,31,5,6,25,26,10,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_42.png
+30,31,5,6,25,26,10,/content/generated_inputs_trafficsigns_light2/light_Keep right_Yield_Speed limit_20 km-h_42.png
+30,31,5,6,25,26,10,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_42.png
+30,31,5,6,25,26,10,/content/generated_inputs_trafficsigns_occl2/occl_Speed limit_30 km-h_Yield_Yield_42.png
+30,31,5,6,25,26,10,/content/generated_inputs_trafficsigns_occl1/occl_Stop_Road work_Yield_42.png
+44,46,5,5,39,41,14,/content/generated_inputs_trafficsigns_occl0/occl_Stop_No vehicles_No vehicles_43.png
+44,46,5,5,39,41,14,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_43.png
+44,46,5,5,39,41,14,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_43.png
+44,46,5,5,39,41,14,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_43.png
+44,46,5,5,39,41,14,/content/generated_inputs_trafficsigns_occl2/occl_Stop_Yield_Yield_43.png
+44,46,5,5,39,41,14,/content/generated_inputs_trafficsigns_occl1/occl_Stop_Road work_Road work_43.png
+61,63,5,6,56,58,6,/content/generated_inputs_trafficsigns_occl0/occl_Keep right_Priority road_Speed limit_30 km-h_44.png
+61,63,5,6,56,58,6,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_44.png
+61,63,5,6,56,58,6,/content/generated_inputs_trafficsigns_blackout2/blackout_Keep right_Keep right_End of speed limit_80 km-h_60.png
+61,63,5,6,56,58,6,/content/generated_inputs_trafficsigns_blackout1/blackout_No entry_Speed limit_80 km-h_Speed limit_80 km-h_69.png
+61,63,5,6,56,58,6,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_44.png
+61,63,5,6,56,58,6,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_44.png
+61,63,5,6,56,58,6,/content/generated_inputs_trafficsigns_occl2/occl_End of speed limit_80 km-h_Speed limit_30 km-h_Speed limit_30 km-h_44.png
+61,63,5,6,56,58,6,/content/generated_inputs_trafficsigns_occl1/occl_End of speed limit_80 km-h_Speed limit_30 km-h_Keep right_44.png
+71,62,6,5,65,57,38,/content/generated_inputs_trafficsigns_occl0/occl_Beware of ice-snow_Yield_Keep right_45.png
+71,62,6,5,65,57,38,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_45.png
+71,62,6,5,65,57,38,/content/generated_inputs_trafficsigns_blackout0/blackout_Road work_Road work_Yield_21.png
+71,62,6,5,65,57,38,/content/generated_inputs_trafficsigns_light2/light_Keep right_Yield_Speed limit_20 km-h_45.png
+71,62,6,5,65,57,38,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_45.png
+71,62,6,5,65,57,38,/content/generated_inputs_trafficsigns_occl2/occl_Keep right_Keep right_Speed limit_60 km-h_45.png
+71,62,6,5,65,57,38,/content/generated_inputs_trafficsigns_occl1/occl_Keep right_Yield_Keep right_45.png
+30,29,6,5,25,24,4,/content/generated_inputs_trafficsigns_occl0/occl_End of all speed and passing limits_Yield_Speed limit_70 km-h_46.png
+30,29,6,5,25,24,4,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_46.png
+30,29,6,5,25,24,4,/content/generated_inputs_trafficsigns_blackout1/blackout_Speed limit_20 km-h_Speed limit_80 km-h_Speed limit_70 km-h_22.png
+30,29,6,5,25,24,4,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_46.png
+30,29,6,5,25,24,4,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_46.png
+30,29,6,5,25,24,4,/content/generated_inputs_trafficsigns_occl2/occl_Speed limit_70 km-h_Yield_Speed limit_70 km-h_46.png
+30,29,6,5,25,24,4,/content/generated_inputs_trafficsigns_occl1/occl_Keep right_Yield_Yield_46.png
+53,51,5,5,48,46,23,/content/generated_inputs_trafficsigns_occl0/occl_Speed limit_50 km-h_Yield_Yield_47.png
+53,51,5,5,48,46,23,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_47.png
+53,51,5,5,48,46,23,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_47.png
+53,51,5,5,48,46,23,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_47.png
+53,51,5,5,48,46,23,/content/generated_inputs_trafficsigns_occl2/occl_End of all speed and passing limits_Yield_Yield_47.png
+53,51,5,5,48,46,23,/content/generated_inputs_trafficsigns_occl1/occl_End of all speed and passing limits_Dangerous curve to the left_Road work_47.png
+49,45,5,5,44,40,25,/content/generated_inputs_trafficsigns_occl0/occl_Stop_Road work_Road work_48.png
+49,45,5,5,44,40,25,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_48.png
+49,45,5,5,44,40,25,/content/generated_inputs_trafficsigns_blackout1/blackout_Ahead only_Yield_Yield_23.png
+49,45,5,5,44,40,25,/content/generated_inputs_trafficsigns_blackout0/blackout_Go straight or right_No vehicles_Road work_23.png
+49,45,5,5,44,40,25,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_48.png
+49,45,5,5,44,40,25,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_48.png
+49,45,5,5,44,40,25,/content/generated_inputs_trafficsigns_occl2/occl_Road work_Road work_Yield_48.png
+68,65,6,6,62,60,40,/content/generated_inputs_trafficsigns_occl0/occl_Yield_Yield_Roundabout mandatory_49.png
+68,65,6,6,62,60,40,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_49.png
+68,65,6,6,62,60,40,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_49.png
+68,65,6,6,62,60,40,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_49.png
+68,65,6,6,62,60,40,/content/generated_inputs_trafficsigns_occl2/occl_Right-of-way at the next intersection_Yield_Yield_49.png
+68,65,6,6,62,60,40,/content/generated_inputs_trafficsigns_occl1/occl_End of all speed and passing limits_Yield_Yield_49.png
+145,137,13,12,133,126,31,/content/generated_inputs_trafficsigns_occl0/occl_Wild animals crossing_Yield_Wild animals crossing_50.png
+145,137,13,12,133,126,31,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_50.png
+145,137,13,12,133,126,31,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_50.png
+145,137,13,12,133,126,31,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_50.png
+145,137,13,12,133,126,31,/content/generated_inputs_trafficsigns_occl2/occl_Wild animals crossing_Yield_Road work_50.png
+145,137,13,12,133,126,31,/content/generated_inputs_trafficsigns_occl1/occl_Wild animals crossing_Yield_Yield_50.png
+31,27,6,5,26,22,10,/content/generated_inputs_trafficsigns_occl0/occl_Yield_No vehicles_Yield_51.png
+31,27,6,5,26,22,10,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_51.png
+31,27,6,5,26,22,10,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_51.png
+31,27,6,5,26,22,10,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_51.png
+31,27,6,5,26,22,10,/content/generated_inputs_trafficsigns_occl2/occl_Yield_Yield_Turn right ahead_51.png
+31,27,6,5,26,22,10,/content/generated_inputs_trafficsigns_occl1/occl_Keep right_Road narrows on the right_Yield_51.png
+28,28,6,6,23,23,3,/content/generated_inputs_trafficsigns_occl0/occl_Stop_Yield_Yield_52.png
+28,28,6,6,23,23,3,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_52.png
+28,28,6,6,23,23,3,/content/generated_inputs_trafficsigns_blackout1/blackout_Stop_Ahead only_Speed limit_100 km-h_25.png
+28,28,6,6,23,23,3,/content/generated_inputs_trafficsigns_blackout0/blackout_Speed limit_30 km-h_Yield_No vehicles_25.png
+28,28,6,6,23,23,3,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_52.png
+28,28,6,6,23,23,3,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_52.png
+28,28,6,6,23,23,3,/content/generated_inputs_trafficsigns_occl2/occl_Yield_No vehicles_Yield_52.png
+28,28,6,6,23,23,3,/content/generated_inputs_trafficsigns_occl1/occl_Speed limit_50 km-h_Yield_Yield_52.png
+55,56,5,5,50,51,10,/content/generated_inputs_trafficsigns_occl0/occl_Stop_Speed limit_30 km-h_No passing for vehicles over 3.5 metric tons_53.png
+55,56,5,5,50,51,10,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_53.png
+55,56,5,5,50,51,10,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_53.png
+55,56,5,5,50,51,10,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_53.png
+55,56,5,5,50,51,10,/content/generated_inputs_trafficsigns_occl2/occl_Speed limit_30 km-h_Yield_Yield_53.png
+55,56,5,5,50,51,10,/content/generated_inputs_trafficsigns_occl1/occl_No passing for vehicles over 3.5 metric tons_Yield_Yield_53.png
+26,27,5,5,21,22,5,/content/generated_inputs_trafficsigns_occl0/occl_Speed limit_50 km-h_Yield_Yield_54.png
+26,27,5,5,21,22,5,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_54.png
+26,27,5,5,21,22,5,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_54.png
+26,27,5,5,21,22,5,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_54.png
+26,27,5,5,21,22,5,/content/generated_inputs_trafficsigns_occl2/occl_Keep right_Yield_Yield_54.png
+26,27,5,5,21,22,5,/content/generated_inputs_trafficsigns_occl1/occl_Stop_Speed limit_30 km-h_Speed limit_30 km-h_54.png
+75,83,6,7,69,76,38,/content/generated_inputs_trafficsigns_occl0/occl_End of speed limit_80 km-h_Yield_Keep right_55.png
+75,83,6,7,69,76,38,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_55.png
+75,83,6,7,69,76,38,/content/generated_inputs_trafficsigns_blackout1/blackout_Speed limit_70 km-h_Yield_Keep right_27.png
+75,83,6,7,69,76,38,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_55.png
+75,83,6,7,69,76,38,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_55.png
+75,83,6,7,69,76,38,/content/generated_inputs_trafficsigns_occl2/occl_Keep right_Keep right_Road work_55.png
+75,83,6,7,69,76,38,/content/generated_inputs_trafficsigns_occl1/occl_Keep right_Yield_Keep right_55.png
+37,35,6,5,32,30,2,/content/generated_inputs_trafficsigns_occl0/occl_Keep right_Speed limit_50 km-h_Speed limit_30 km-h_56.png
+37,35,6,5,32,30,2,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_56.png
+37,35,6,5,32,30,2,/content/generated_inputs_trafficsigns_blackout0/blackout_Speed limit_30 km-h_Speed limit_30 km-h_Speed limit_50 km-h_27.png
+37,35,6,5,32,30,2,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_56.png
+37,35,6,5,32,30,2,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_56.png
+37,35,6,5,32,30,2,/content/generated_inputs_trafficsigns_occl2/occl_Speed limit_50 km-h_Yield_Yield_56.png
+37,35,6,5,32,30,2,/content/generated_inputs_trafficsigns_occl1/occl_Speed limit_50 km-h_Yield_Yield_56.png
+68,57,7,5,62,52,11,/content/generated_inputs_trafficsigns_occl0/occl_Keep right_Yield_Priority road_57.png
+68,57,7,5,62,52,11,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_57.png
+68,57,7,5,62,52,11,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_57.png
+68,57,7,5,62,52,11,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_57.png
+68,57,7,5,62,52,11,/content/generated_inputs_trafficsigns_occl2/occl_Keep right_Yield_Yield_57.png
+68,57,7,5,62,52,11,/content/generated_inputs_trafficsigns_occl1/occl_Stop_No vehicles_Right-of-way at the next intersection_57.png
+48,49,5,5,43,44,26,/content/generated_inputs_trafficsigns_occl0/occl_Keep right_Traffic signals_Traffic signals_58.png
+48,49,5,5,43,44,26,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_58.png
+48,49,5,5,43,44,26,/content/generated_inputs_trafficsigns_blackout1/blackout_Right-of-way at the next intersection_Wild animals crossing_Right-of-way at the next intersection_28.png
+48,49,5,5,43,44,26,/content/generated_inputs_trafficsigns_light2/light_Keep right_Yield_Speed limit_20 km-h_58.png
+48,49,5,5,43,44,26,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_58.png
+48,49,5,5,43,44,26,/content/generated_inputs_trafficsigns_occl2/occl_Traffic signals_Yield_Traffic signals_58.png
+48,49,5,5,43,44,26,/content/generated_inputs_trafficsigns_occl1/occl_Stop_Speed limit_70 km-h_Traffic signals_58.png
+50,50,5,6,45,45,12,/content/generated_inputs_trafficsigns_occl0/occl_Yield_Yield_Priority road_59.png
+50,50,5,6,45,45,12,/content/generated_inputs_trafficsigns_light0/light_Yield_Yield_Priority road_59.png
+50,50,5,6,45,45,12,/content/generated_inputs_trafficsigns_blackout0/blackout_Slippery road_Wild animals crossing_Right-of-way at the next intersection_29.png
+50,50,5,6,45,45,12,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_59.png
+50,50,5,6,45,45,12,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_59.png
+50,50,5,6,45,45,12,/content/generated_inputs_trafficsigns_occl2/occl_Priority road_Yield_Yield_59.png
+50,50,5,6,45,45,12,/content/generated_inputs_trafficsigns_occl1/occl_Priority road_Yield_Yield_59.png
+45,49,6,6,40,44,6,/content/generated_inputs_trafficsigns_occl0/occl_Keep right_Yield_Keep right_60.png
+45,49,6,6,40,44,6,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_60.png
+45,49,6,6,40,44,6,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_60.png
+45,49,6,6,40,44,6,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_60.png
+45,49,6,6,40,44,6,/content/generated_inputs_trafficsigns_occl2/occl_Speed limit_30 km-h_Bicycles crossing_End of all speed and passing limits_60.png
+45,49,6,6,40,44,6,/content/generated_inputs_trafficsigns_occl1/occl_Speed limit_30 km-h_Yield_Yield_60.png
+41,38,6,5,36,33,31,/content/generated_inputs_trafficsigns_occl0/occl_Wild animals crossing_Yield_Wild animals crossing_61.png
+41,38,6,5,36,33,31,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_61.png
+41,38,6,5,36,33,31,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_61.png
+41,38,6,5,36,33,31,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_61.png
+41,38,6,5,36,33,31,/content/generated_inputs_trafficsigns_occl2/occl_Wild animals crossing_Road work_Wild animals crossing_61.png
+41,38,6,5,36,33,31,/content/generated_inputs_trafficsigns_occl1/occl_Wild animals crossing_Speed limit_60 km-h_Wild animals crossing_61.png
+32,32,5,5,27,27,4,/content/generated_inputs_trafficsigns_occl0/occl_Stop_Speed limit_70 km-h_Speed limit_70 km-h_62.png
+32,32,5,5,27,27,4,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_62.png
+32,32,5,5,27,27,4,/content/generated_inputs_trafficsigns_blackout0/blackout_Go straight or right_No vehicles_Speed limit_70 km-h_31.png
+32,32,5,5,27,27,4,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_62.png
+32,32,5,5,27,27,4,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_62.png
+32,32,5,5,27,27,4,/content/generated_inputs_trafficsigns_occl2/occl_Speed limit_70 km-h_Speed limit_70 km-h_Yield_62.png
+32,32,5,5,27,27,4,/content/generated_inputs_trafficsigns_occl1/occl_Speed limit_70 km-h_Yield_Speed limit_70 km-h_62.png
+50,47,6,5,45,42,34,/content/generated_inputs_trafficsigns_occl0/occl_Keep right_Turn left ahead_Turn left ahead_63.png
+50,47,6,5,45,42,34,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_63.png
+50,47,6,5,45,42,34,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_63.png
+50,47,6,5,45,42,34,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_63.png
+50,47,6,5,45,42,34,/content/generated_inputs_trafficsigns_occl2/occl_Yield_Yield_Turn left ahead_63.png
+50,47,6,5,45,42,34,/content/generated_inputs_trafficsigns_occl1/occl_Yield_Turn left ahead_Turn left ahead_63.png
+73,68,7,7,67,62,25,/content/generated_inputs_trafficsigns_occl0/occl_Keep right_Road work_Road work_64.png
+73,68,7,7,67,62,25,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_64.png
+73,68,7,7,67,62,25,/content/generated_inputs_trafficsigns_blackout1/blackout_End of all speed and passing limits_Yield_Road work_30.png
+73,68,7,7,67,62,25,/content/generated_inputs_trafficsigns_blackout0/blackout_Keep right_Road work_Road work_32.png
+73,68,7,7,67,62,25,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_64.png
+73,68,7,7,67,62,25,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_64.png
+73,68,7,7,67,62,25,/content/generated_inputs_trafficsigns_occl2/occl_Keep right_Yield_Dangerous curve to the right_64.png
+73,68,7,7,67,62,25,/content/generated_inputs_trafficsigns_occl1/occl_Keep right_Road work_Road work_64.png
+29,30,6,6,24,25,3,/content/generated_inputs_trafficsigns_occl0/occl_Stop_Yield_Yield_65.png
+29,30,6,6,24,25,3,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_65.png
+29,30,6,6,24,25,3,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_65.png
+29,30,6,6,24,25,3,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_65.png
+29,30,6,6,24,25,3,/content/generated_inputs_trafficsigns_occl2/occl_Keep right_Yield_Yield_65.png
+29,30,6,6,24,25,3,/content/generated_inputs_trafficsigns_occl1/occl_Stop_Yield_Yield_65.png
+32,34,5,6,27,28,1,/content/generated_inputs_trafficsigns_occl0/occl_Stop_Speed limit_30 km-h_Speed limit_30 km-h_66.png
+32,34,5,6,27,28,1,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_66.png
+32,34,5,6,27,28,1,/content/generated_inputs_trafficsigns_blackout1/blackout_Speed limit_70 km-h_Speed limit_30 km-h_Speed limit_50 km-h_31.png
+32,34,5,6,27,28,1,/content/generated_inputs_trafficsigns_light2/light_Keep right_Yield_Speed limit_20 km-h_66.png
+32,34,5,6,27,28,1,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_66.png
+32,34,5,6,27,28,1,/content/generated_inputs_trafficsigns_occl2/occl_Speed limit_30 km-h_Yield_Speed limit_30 km-h_66.png
+32,34,5,6,27,28,1,/content/generated_inputs_trafficsigns_occl1/occl_Speed limit_30 km-h_Yield_Speed limit_30 km-h_66.png
+45,44,6,5,40,39,12,/content/generated_inputs_trafficsigns_occl0/occl_End of all speed and passing limits_Yield_Priority road_67.png
+45,44,6,5,40,39,12,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_67.png
+45,44,6,5,40,39,12,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_67.png
+45,44,6,5,40,39,12,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_67.png
+45,44,6,5,40,39,12,/content/generated_inputs_trafficsigns_occl2/occl_Priority road_Yield_Priority road_67.png
+45,44,6,5,40,39,12,/content/generated_inputs_trafficsigns_occl1/occl_Yield_Yield_Priority road_67.png
+49,53,6,6,44,48,38,/content/generated_inputs_trafficsigns_occl0/occl_Keep right_Yield_Keep right_68.png
+49,53,6,6,44,48,38,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_68.png
+49,53,6,6,44,48,38,/content/generated_inputs_trafficsigns_blackout0/blackout_End of speed limit_80 km-h_Wild animals crossing_Keep right_34.png
+49,53,6,6,44,48,38,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_68.png
+49,53,6,6,44,48,38,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_68.png
+49,53,6,6,44,48,38,/content/generated_inputs_trafficsigns_occl2/occl_Keep right_No vehicles_Keep right_68.png
+49,53,6,6,44,48,38,/content/generated_inputs_trafficsigns_occl1/occl_Keep right_Speed limit_60 km-h_Keep right_68.png
+26,29,5,6,21,24,17,/content/generated_inputs_trafficsigns_occl0/occl_Stop_No entry_Yield_69.png
+26,29,5,6,21,24,17,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_69.png
+26,29,5,6,21,24,17,/content/generated_inputs_trafficsigns_light2/light_Keep right_Yield_Speed limit_20 km-h_69.png
+26,29,5,6,21,24,17,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_69.png
+26,29,5,6,21,24,17,/content/generated_inputs_trafficsigns_occl2/occl_End of all speed and passing limits_Yield_Yield_69.png
+26,29,5,6,21,24,17,/content/generated_inputs_trafficsigns_occl1/occl_Yield_Road work_Dangerous curve to the right_69.png
+44,44,6,6,39,39,4,/content/generated_inputs_trafficsigns_occl0/occl_End of all speed and passing limits_Speed limit_70 km-h_Speed limit_70 km-h_70.png
+44,44,6,6,39,39,4,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_70.png
+44,44,6,6,39,39,4,/content/generated_inputs_trafficsigns_blackout1/blackout_Speed limit_80 km-h_Speed limit_70 km-h_Speed limit_70 km-h_33.png
+44,44,6,6,39,39,4,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_70.png
+44,44,6,6,39,39,4,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_70.png
+44,44,6,6,39,39,4,/content/generated_inputs_trafficsigns_occl2/occl_Speed limit_70 km-h_Speed limit_30 km-h_Speed limit_30 km-h_70.png
+44,44,6,6,39,39,4,/content/generated_inputs_trafficsigns_occl1/occl_Speed limit_70 km-h_Speed limit_30 km-h_Speed limit_70 km-h_70.png
+29,29,6,6,24,24,7,/content/generated_inputs_trafficsigns_occl0/occl_Keep right_Speed limit_30 km-h_Yield_71.png
+29,29,6,6,24,24,7,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_71.png
+29,29,6,6,24,24,7,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_71.png
+29,29,6,6,24,24,7,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_71.png
+29,29,6,6,24,24,7,/content/generated_inputs_trafficsigns_occl2/occl_Stop_Yield_Yield_71.png
+29,29,6,6,24,24,7,/content/generated_inputs_trafficsigns_occl1/occl_Speed limit_100 km-h_Speed limit_30 km-h_Speed limit_100 km-h_71.png
+68,67,6,6,62,61,4,/content/generated_inputs_trafficsigns_occl0/occl_Speed limit_120 km-h_Speed limit_70 km-h_Speed limit_70 km-h_72.png
+68,67,6,6,62,61,4,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_72.png
+68,67,6,6,62,61,4,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_72.png
+68,67,6,6,62,61,4,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_72.png
+68,67,6,6,62,61,4,/content/generated_inputs_trafficsigns_occl2/occl_Speed limit_70 km-h_Speed limit_70 km-h_Road work_72.png
+68,67,6,6,62,61,4,/content/generated_inputs_trafficsigns_occl1/occl_Speed limit_70 km-h_Yield_Speed limit_70 km-h_72.png
+37,35,6,5,31,30,2,/content/generated_inputs_trafficsigns_occl0/occl_Keep right_Speed limit_30 km-h_Speed limit_30 km-h_73.png
+37,35,6,5,31,30,2,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_73.png
+37,35,6,5,31,30,2,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_73.png
+37,35,6,5,31,30,2,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_73.png
+37,35,6,5,31,30,2,/content/generated_inputs_trafficsigns_occl2/occl_Yield_Yield_Speed limit_30 km-h_73.png
+37,35,6,5,31,30,2,/content/generated_inputs_trafficsigns_occl1/occl_Speed limit_50 km-h_Yield_Speed limit_30 km-h_73.png
+62,60,5,6,57,55,13,/content/generated_inputs_trafficsigns_occl0/occl_No entry_Yield_Yield_74.png
+62,60,5,6,57,55,13,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_74.png
+62,60,5,6,57,55,13,/content/generated_inputs_trafficsigns_light2/light_Keep right_Yield_Speed limit_20 km-h_74.png
+62,60,5,6,57,55,13,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_74.png
+62,60,5,6,57,55,13,/content/generated_inputs_trafficsigns_occl2/occl_Yield_Yield_Speed limit_30 km-h_74.png
+62,60,5,6,57,55,13,/content/generated_inputs_trafficsigns_occl1/occl_Yield_Speed limit_70 km-h_Yield_74.png
+76,75,7,7,70,69,9,/content/generated_inputs_trafficsigns_occl0/occl_Stop_No passing_Yield_75.png
+76,75,7,7,70,69,9,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_75.png
+76,75,7,7,70,69,9,/content/generated_inputs_trafficsigns_blackout0/blackout_Speed limit_30 km-h_No passing_No passing_36.png
+76,75,7,7,70,69,9,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_75.png
+76,75,7,7,70,69,9,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_75.png
+76,75,7,7,70,69,9,/content/generated_inputs_trafficsigns_occl2/occl_No vehicles_Yield_Yield_75.png
+76,75,7,7,70,69,9,/content/generated_inputs_trafficsigns_occl1/occl_No passing_Road work_No passing_75.png
+37,35,5,5,32,30,19,/content/generated_inputs_trafficsigns_occl0/occl_Keep right_Yield_Yield_76.png
+37,35,5,5,32,30,19,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_76.png
+37,35,5,5,32,30,19,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_76.png
+37,35,5,5,32,30,19,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_76.png
+37,35,5,5,32,30,19,/content/generated_inputs_trafficsigns_occl2/occl_Dangerous curve to the left_Yield_Yield_76.png
+37,35,5,5,32,30,19,/content/generated_inputs_trafficsigns_occl1/occl_Yield_Road work_Dangerous curve to the right_76.png
+42,46,6,5,37,41,6,/content/generated_inputs_trafficsigns_occl0/occl_End of speed limit_80 km-h_Yield_End of speed limit_80 km-h_77.png
+42,46,6,5,37,41,6,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_77.png
+42,46,6,5,37,41,6,/content/generated_inputs_trafficsigns_blackout1/blackout_Ahead only_Yield_End of speed limit_80 km-h_36.png
+42,46,6,5,37,41,6,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_77.png
+42,46,6,5,37,41,6,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_77.png
+42,46,6,5,37,41,6,/content/generated_inputs_trafficsigns_occl2/occl_End of speed limit_80 km-h_Speed limit_60 km-h_End of speed limit_80 km-h_77.png
+42,46,6,5,37,41,6,/content/generated_inputs_trafficsigns_occl1/occl_End of speed limit_80 km-h_Yield_End of speed limit_80 km-h_77.png
+47,46,6,5,42,41,10,/content/generated_inputs_trafficsigns_occl0/occl_Keep right_Priority road_Priority road_78.png
+47,46,6,5,42,41,10,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_78.png
+47,46,6,5,42,41,10,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_78.png
+47,46,6,5,42,41,10,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_78.png
+47,46,6,5,42,41,10,/content/generated_inputs_trafficsigns_occl2/occl_Keep right_Yield_Yield_78.png
+47,46,6,5,42,41,10,/content/generated_inputs_trafficsigns_occl1/occl_Traffic signals_Speed limit_30 km-h_Priority road_78.png
+87,88,8,8,80,81,4,/content/generated_inputs_trafficsigns_occl0/occl_End of all speed and passing limits_Speed limit_70 km-h_Speed limit_70 km-h_79.png
+87,88,8,8,80,81,4,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_79.png
+87,88,8,8,80,81,4,/content/generated_inputs_trafficsigns_blackout0/blackout_Go straight or right_No vehicles_Speed limit_70 km-h_38.png
+87,88,8,8,80,81,4,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_79.png
+87,88,8,8,80,81,4,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_79.png
+87,88,8,8,80,81,4,/content/generated_inputs_trafficsigns_occl2/occl_Speed limit_70 km-h_Speed limit_60 km-h_No vehicles_79.png
+87,88,8,8,80,81,4,/content/generated_inputs_trafficsigns_occl1/occl_Speed limit_70 km-h_Yield_Speed limit_70 km-h_79.png
+50,48,5,6,45,43,11,/content/generated_inputs_trafficsigns_occl0/occl_Yield_Yield_Right-of-way at the next intersection_80.png
+50,48,5,6,45,43,11,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_80.png
+50,48,5,6,45,43,11,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_80.png
+50,48,5,6,45,43,11,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_80.png
+50,48,5,6,45,43,11,/content/generated_inputs_trafficsigns_occl2/occl_Keep right_Yield_Dangerous curve to the right_80.png
+50,48,5,6,45,43,11,/content/generated_inputs_trafficsigns_occl1/occl_Keep right_Yield_Yield_80.png
+38,37,6,5,32,32,10,/content/generated_inputs_trafficsigns_occl0/occl_Keep right_Yield_Yield_81.png
+38,37,6,5,32,32,10,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_81.png
+38,37,6,5,32,32,10,/content/generated_inputs_trafficsigns_blackout1/blackout_No passing for vehicles over 3.5 metric tons_Speed limit_80 km-h_Keep right_38.png
+38,37,6,5,32,32,10,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_81.png
+38,37,6,5,32,32,10,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_81.png
+38,37,6,5,32,32,10,/content/generated_inputs_trafficsigns_occl2/occl_Keep right_Yield_Yield_81.png
+38,37,6,5,32,32,10,/content/generated_inputs_trafficsigns_occl1/occl_Keep right_Yield_Yield_81.png
+32,52,6,5,27,47,15,/content/generated_inputs_trafficsigns_occl0/occl_Yield_No vehicles_No vehicles_82.png
+32,52,6,5,27,47,15,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_82.png
+32,52,6,5,27,47,15,/content/generated_inputs_trafficsigns_blackout0/blackout_No entry_Road work_Yield_39.png
+32,52,6,5,27,47,15,/content/generated_inputs_trafficsigns_light2/light_Keep right_Yield_Speed limit_20 km-h_82.png
+32,52,6,5,27,47,15,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_82.png
+32,52,6,5,27,47,15,/content/generated_inputs_trafficsigns_occl2/occl_Yield_Yield_Keep right_82.png
+32,52,6,5,27,47,15,/content/generated_inputs_trafficsigns_occl1/occl_Keep right_No vehicles_Yield_82.png
+51,51,6,6,46,46,4,/content/generated_inputs_trafficsigns_occl0/occl_Speed limit_70 km-h_Yield_Yield_83.png
+51,51,6,6,46,46,4,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_83.png
+51,51,6,6,46,46,4,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_83.png
+51,51,6,6,46,46,4,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_83.png
+51,51,6,6,46,46,4,/content/generated_inputs_trafficsigns_occl2/occl_Yield_Speed limit_70 km-h_Speed limit_30 km-h_83.png
+51,51,6,6,46,46,4,/content/generated_inputs_trafficsigns_occl1/occl_Speed limit_70 km-h_Yield_Yield_83.png
+42,43,6,5,36,38,1,/content/generated_inputs_trafficsigns_occl0/occl_Yield_Yield_Speed limit_30 km-h_84.png
+42,43,6,5,36,38,1,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_84.png
+42,43,6,5,36,38,1,/content/generated_inputs_trafficsigns_blackout1/blackout_Go straight or right_Speed limit_80 km-h_No vehicles_40.png
+42,43,6,5,36,38,1,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_84.png
+42,43,6,5,36,38,1,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_84.png
+42,43,6,5,36,38,1,/content/generated_inputs_trafficsigns_occl2/occl_Speed limit_30 km-h_Yield_Yield_84.png
+42,43,6,5,36,38,1,/content/generated_inputs_trafficsigns_occl1/occl_Speed limit_30 km-h_Yield_Yield_84.png
+39,38,5,6,34,33,18,/content/generated_inputs_trafficsigns_occl0/occl_Keep right_Yield_Speed limit_30 km-h_85.png
+39,38,5,6,34,33,18,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_85.png
+39,38,5,6,34,33,18,/content/generated_inputs_trafficsigns_blackout0/blackout_Keep right_No entry_Bicycles crossing_40.png
+39,38,5,6,34,33,18,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_85.png
+39,38,5,6,34,33,18,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_85.png
+39,38,5,6,34,33,18,/content/generated_inputs_trafficsigns_occl2/occl_Stop_Speed limit_30 km-h_Dangerous curve to the right_85.png
+39,38,5,6,34,33,18,/content/generated_inputs_trafficsigns_occl1/occl_Keep right_Speed limit_30 km-h_Road work_85.png
+56,58,5,5,51,53,9,/content/generated_inputs_trafficsigns_occl0/occl_No entry_Yield_Yield_86.png
+56,58,5,5,51,53,9,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_86.png
+56,58,5,5,51,53,9,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_86.png
+56,58,5,5,51,53,9,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_86.png
+56,58,5,5,51,53,9,/content/generated_inputs_trafficsigns_occl2/occl_Stop_No passing_Yield_86.png
+56,58,5,5,51,53,9,/content/generated_inputs_trafficsigns_occl1/occl_Keep right_Yield_Yield_86.png
+35,36,5,5,30,31,5,/content/generated_inputs_trafficsigns_occl0/occl_Speed limit_80 km-h_Speed limit_60 km-h_Speed limit_50 km-h_87.png
+35,36,5,5,30,31,5,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_87.png
+35,36,5,5,30,31,5,/content/generated_inputs_trafficsigns_blackout0/blackout_Slippery road_Slippery road_Speed limit_80 km-h_41.png
+35,36,5,5,30,31,5,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_87.png
+35,36,5,5,30,31,5,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_87.png
+35,36,5,5,30,31,5,/content/generated_inputs_trafficsigns_occl2/occl_Keep right_Speed limit_70 km-h_Speed limit_20 km-h_87.png
+35,36,5,5,30,31,5,/content/generated_inputs_trafficsigns_occl1/occl_Speed limit_30 km-h_Yield_Yield_87.png
+32,34,5,6,27,29,2,/content/generated_inputs_trafficsigns_occl0/occl_Speed limit_50 km-h_Speed limit_60 km-h_Speed limit_50 km-h_88.png
+32,34,5,6,27,29,2,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_88.png
+32,34,5,6,27,29,2,/content/generated_inputs_trafficsigns_blackout2/blackout_Speed limit_50 km-h_Speed limit_30 km-h_Speed limit_50 km-h_34.png
+32,34,5,6,27,29,2,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_88.png
+32,34,5,6,27,29,2,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_88.png
+32,34,5,6,27,29,2,/content/generated_inputs_trafficsigns_occl2/occl_Stop_Speed limit_50 km-h_Speed limit_30 km-h_88.png
+32,34,5,6,27,29,2,/content/generated_inputs_trafficsigns_occl1/occl_Speed limit_50 km-h_Yield_Speed limit_50 km-h_88.png
+36,43,5,5,30,37,33,/content/generated_inputs_trafficsigns_occl0/occl_Priority road_Turn right ahead_Turn right ahead_89.png
+36,43,5,5,30,37,33,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_89.png
+36,43,5,5,30,37,33,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_89.png
+36,43,5,5,30,37,33,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_89.png
+36,43,5,5,30,37,33,/content/generated_inputs_trafficsigns_occl2/occl_Keep right_Yield_Turn right ahead_89.png
+36,43,5,5,30,37,33,/content/generated_inputs_trafficsigns_occl1/occl_Keep right_Turn right ahead_Turn right ahead_89.png
+38,38,5,5,33,33,8,/content/generated_inputs_trafficsigns_occl0/occl_Yield_Road work_Yield_90.png
+38,38,5,5,33,33,8,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_90.png
+38,38,5,5,33,33,8,/content/generated_inputs_trafficsigns_blackout1/blackout_Ahead only_No entry_Speed limit_20 km-h_43.png
+38,38,5,5,33,33,8,/content/generated_inputs_trafficsigns_blackout0/blackout_Ahead only_No entry_Speed limit_20 km-h_42.png
+38,38,5,5,33,33,8,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_90.png
+38,38,5,5,33,33,8,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_90.png
+38,38,5,5,33,33,8,/content/generated_inputs_trafficsigns_occl2/occl_Stop_Yield_Yield_90.png
+38,38,5,5,33,33,8,/content/generated_inputs_trafficsigns_occl1/occl_Yield_Speed limit_70 km-h_Yield_90.png
+101,100,8,8,92,91,14,/content/generated_inputs_trafficsigns_occl0/occl_Stop_Yield_Yield_91.png
+101,100,8,8,92,91,14,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_91.png
+101,100,8,8,92,91,14,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_91.png
+101,100,8,8,92,91,14,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_91.png
+101,100,8,8,92,91,14,/content/generated_inputs_trafficsigns_occl2/occl_Stop_Yield_Yield_91.png
+101,100,8,8,92,91,14,/content/generated_inputs_trafficsigns_occl1/occl_Stop_Yield_Yield_91.png
+44,48,5,5,39,43,15,/content/generated_inputs_trafficsigns_occl0/occl_Yield_No vehicles_Yield_92.png
+44,48,5,5,39,43,15,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_92.png
+44,48,5,5,39,43,15,/content/generated_inputs_trafficsigns_blackout2/blackout_Pedestrians_Priority road_Speed limit_50 km-h_36.png
+44,48,5,5,39,43,15,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_92.png
+44,48,5,5,39,43,15,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_92.png
+44,48,5,5,39,43,15,/content/generated_inputs_trafficsigns_occl2/occl_Yield_No vehicles_Yield_92.png
+44,48,5,5,39,43,15,/content/generated_inputs_trafficsigns_occl1/occl_Speed limit_60 km-h_Yield_Yield_92.png
+35,38,5,5,30,32,33,/content/generated_inputs_trafficsigns_occl0/occl_Keep right_Yield_Yield_93.png
+35,38,5,5,30,32,33,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_93.png
+35,38,5,5,30,32,33,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_93.png
+35,38,5,5,30,32,33,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_93.png
+35,38,5,5,30,32,33,/content/generated_inputs_trafficsigns_occl2/occl_Keep right_Yield_Yield_93.png
+35,38,5,5,30,32,33,/content/generated_inputs_trafficsigns_occl1/occl_Keep right_Yield_Turn right ahead_93.png
+146,143,12,12,134,131,12,/content/generated_inputs_trafficsigns_occl0/occl_Priority road_Priority road_Yield_94.png
+146,143,12,12,134,131,12,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_94.png
+146,143,12,12,134,131,12,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_94.png
+146,143,12,12,134,131,12,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_94.png
+146,143,12,12,134,131,12,/content/generated_inputs_trafficsigns_occl2/occl_Keep right_Priority road_Yield_94.png
+146,143,12,12,134,131,12,/content/generated_inputs_trafficsigns_occl1/occl_Priority road_No vehicles_Priority road_94.png
+45,45,6,5,40,40,25,/content/generated_inputs_trafficsigns_occl0/occl_Stop_Road narrows on the right_No vehicles_95.png
+45,45,6,5,40,40,25,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_95.png
+45,45,6,5,40,40,25,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_95.png
+45,45,6,5,40,40,25,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_95.png
+45,45,6,5,40,40,25,/content/generated_inputs_trafficsigns_occl2/occl_Speed limit_60 km-h_Yield_Yield_95.png
+45,45,6,5,40,40,25,/content/generated_inputs_trafficsigns_occl1/occl_Yield_Road work_Dangerous curve to the right_95.png
+39,40,6,5,33,34,33,/content/generated_inputs_trafficsigns_occl0/occl_Keep right_Turn right ahead_Turn right ahead_96.png
+39,40,6,5,33,34,33,/content/generated_inputs_trafficsigns_light0/light_Keep right_Yield_Speed limit_20 km-h_96.png
+39,40,6,5,33,34,33,/content/generated_inputs_trafficsigns_blackout2/blackout_Go straight or left_Speed limit_50 km-h_Speed limit_50 km-h_38.png
+39,40,6,5,33,34,33,/content/generated_inputs_trafficsigns_blackout1/blackout_Go straight or left_Speed limit_50 km-h_Speed limit_50 km-h_46.png
+39,40,6,5,33,34,33,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_96.png
+39,40,6,5,33,34,33,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_96.png
+39,40,6,5,33,34,33,/content/generated_inputs_trafficsigns_occl2/occl_Yield_Speed limit_70 km-h_Turn right ahead_96.png
+39,40,6,5,33,34,33,/content/generated_inputs_trafficsigns_occl1/occl_Turn right ahead_Yield_Turn right ahead_96.png
+57,58,5,6,52,53,12,/content/generated_inputs_trafficsigns_occl0/occl_Priority road_Yield_Priority road_97.png
+57,58,5,6,52,53,12,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_97.png
+57,58,5,6,52,53,12,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_97.png
+57,58,5,6,52,53,12,/content/generated_inputs_trafficsigns_light1/light_Go straight or right_No entry_Bicycles crossing_97.png
+57,58,5,6,52,53,12,/content/generated_inputs_trafficsigns_occl2/occl_Priority road_Yield_Priority road_97.png
+57,58,5,6,52,53,12,/content/generated_inputs_trafficsigns_occl1/occl_Priority road_Yield_Priority road_97.png
+37,37,6,5,32,31,1,/content/generated_inputs_trafficsigns_occl0/occl_Keep right_Speed limit_30 km-h_Speed limit_30 km-h_98.png
+37,37,6,5,32,31,1,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_98.png
+37,37,6,5,32,31,1,/content/generated_inputs_trafficsigns_light2/light_Keep right_Yield_Speed limit_20 km-h_98.png
+37,37,6,5,32,31,1,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_98.png
+37,37,6,5,32,31,1,/content/generated_inputs_trafficsigns_occl2/occl_Speed limit_30 km-h_Speed limit_30 km-h_Yield_98.png
+37,37,6,5,32,31,1,/content/generated_inputs_trafficsigns_occl1/occl_Speed limit_30 km-h_Speed limit_70 km-h_Speed limit_30 km-h_98.png
+93,81,8,7,85,74,25,/content/generated_inputs_trafficsigns_occl0/occl_End of speed limit_80 km-h_Road narrows on the right_Yield_99.png
+93,81,8,7,85,74,25,/content/generated_inputs_trafficsigns_light0/light_Go straight or right_No entry_Bicycles crossing_99.png
+93,81,8,7,85,74,25,/content/generated_inputs_trafficsigns_light2/light_Go straight or right_No entry_Bicycles crossing_99.png
+93,81,8,7,85,74,25,/content/generated_inputs_trafficsigns_light1/light_Keep right_Yield_Speed limit_20 km-h_99.png
+93,81,8,7,85,74,25,/content/generated_inputs_trafficsigns_occl2/occl_Yield_Road work_Yield_99.png
+93,81,8,7,85,74,25,/content/generated_inputs_trafficsigns_occl1/occl_End of all speed and passing limits_Yield_Yield_99.png
+68,69,6,7,62,63,10,/content/generated_inputs_trafficsigns_blackout2/blackout_Ahead only_Yield_No passing_2.png
+58,57,6,5,53,52,10,/content/generated_inputs_trafficsigns_blackout2/blackout_No passing for vehicles over 3.5 metric tons_Bicycles crossing_Double curve_3.png
+112,113,9,10,103,104,13,/content/generated_inputs_trafficsigns_blackout2/blackout_Yield_Yield_Priority road_7.png
+30,30,5,5,25,25,35,/content/generated_inputs_trafficsigns_blackout2/blackout_Speed limit_30 km-h_Ahead only_Ahead only_15.png
+40,39,5,5,35,34,5,/content/generated_inputs_trafficsigns_blackout2/blackout_Speed limit_30 km-h_Speed limit_30 km-h_Speed limit_80 km-h_17.png
+55,54,6,6,49,49,12,/content/generated_inputs_trafficsigns_blackout2/blackout_Go straight or right_End of all speed and passing limits_Priority road_18.png
+40,39,6,5,35,34,5,/content/generated_inputs_trafficsigns_blackout2/blackout_Speed limit_100 km-h_Speed limit_80 km-h_Speed limit_80 km-h_19.png
+46,37,6,5,41,32,13,/content/generated_inputs_trafficsigns_blackout2/blackout_Yield_Yield_Priority road_20.png
+45,47,6,6,40,42,38,/content/generated_inputs_trafficsigns_blackout2/blackout_Keep right_Bicycles crossing_Keep right_21.png
+40,40,5,5,35,35,38,/content/generated_inputs_trafficsigns_blackout2/blackout_End of speed limit_80 km-h_Road work_Keep right_22.png
+52,52,5,5,47,47,7,/content/generated_inputs_trafficsigns_blackout2/blackout_Yield_Yield_Speed limit_30 km-h_23.png
+107,93,10,8,97,84,13,/content/generated_inputs_trafficsigns_blackout2/blackout_Go straight or left_No vehicles_Yield_24.png
+77,71,7,7,70,65,11,/content/generated_inputs_trafficsigns_blackout2/blackout_Keep right_Yield_Speed limit_30 km-h_25.png
+71,71,6,6,65,65,1,/content/generated_inputs_trafficsigns_blackout2/blackout_Priority road_No vehicles_Priority road_26.png
+50,48,5,5,45,43,8,/content/generated_inputs_trafficsigns_blackout2/blackout_Speed limit_120 km-h_Speed limit_70 km-h_Speed limit_120 km-h_27.png
+54,54,5,5,49,49,7,/content/generated_inputs_trafficsigns_blackout2/blackout_End of no passing for vehicles over 3.5 metric tons_Bicycles crossing_Speed limit_100 km-h_28.png
+30,31,6,6,25,26,12,/content/generated_inputs_trafficsigns_blackout2/blackout_Priority road_Dangerous curve to the right_Speed limit_30 km-h_29.png
+30,29,6,6,25,24,38,/content/generated_inputs_trafficsigns_blackout2/blackout_Bumpy road_Speed limit_120 km-h_Yield_30.png
+29,47,6,6,24,42,14,/content/generated_inputs_trafficsigns_blackout2/blackout_Slippery road_Wild animals crossing_Right-of-way at the next intersection_31.png
+27,28,5,5,22,23,17,/content/generated_inputs_trafficsigns_blackout2/blackout_Ahead only_End of all speed and passing limits_Priority road_33.png
+132,121,12,11,121,111,25,/content/generated_inputs_trafficsigns_blackout2/blackout_Road work_Road work_General caution_35.png
+82,84,7,7,75,76,39,/content/generated_inputs_trafficsigns_blackout2/blackout_Keep right_Speed limit_70 km-h_General caution_37.png
+82,84,7,7,75,76,39,/content/generated_inputs_trafficsigns_blackout1/blackout_Keep right_Speed limit_70 km-h_General caution_45.png
+28,31,6,6,22,26,6,/content/generated_inputs_trafficsigns_blackout2/blackout_Pedestrians_Speed limit_80 km-h_Speed limit_80 km-h_39.png
+28,31,6,6,22,26,6,/content/generated_inputs_trafficsigns_blackout1/blackout_Speed limit_30 km-h_Yield_Yield_47.png
+64,65,5,6,59,60,31,/content/generated_inputs_trafficsigns_blackout2/blackout_Ahead only_Road work_Road work_40.png
+30,30,5,6,25,25,21,/content/generated_inputs_trafficsigns_blackout2/blackout_Keep right_Speed limit_50 km-h_Double curve_41.png
+100,103,9,9,92,94,10,/content/generated_inputs_trafficsigns_blackout2/blackout_Ahead only_No passing for vehicles over 3.5 metric tons_Yield_42.png
+62,70,6,7,57,64,1,/content/generated_inputs_trafficsigns_blackout2/blackout_General caution_Speed limit_30 km-h_Speed limit_30 km-h_43.png
+62,70,6,7,57,64,1,/content/generated_inputs_trafficsigns_blackout1/blackout_End of no passing_Speed limit_30 km-h_Speed limit_20 km-h_50.png
+55,54,6,5,50,49,10,/content/generated_inputs_trafficsigns_blackout2/blackout_Speed limit_30 km-h_No passing for vehicles over 3.5 metric tons_Priority road_44.png
+55,54,6,5,50,49,10,/content/generated_inputs_trafficsigns_blackout0/blackout_No passing for vehicles over 3.5 metric tons_Speed limit_30 km-h_No passing for vehicles over 3.5 metric tons_54.png
+62,61,5,5,57,56,33,/content/generated_inputs_trafficsigns_blackout2/blackout_Ahead only_Priority road_Priority road_45.png
+47,94,6,9,42,86,38,/content/generated_inputs_trafficsigns_blackout2/blackout_Ahead only_Speed limit_70 km-h_Bicycles crossing_46.png
+46,45,6,5,41,40,2,/content/generated_inputs_trafficsigns_blackout2/blackout_Ahead only_Dangerous curve to the right_Traffic signals_47.png
+46,45,6,5,41,40,2,/content/generated_inputs_trafficsigns_blackout0/blackout_Road work_No passing for vehicles over 3.5 metric tons_No passing for vehicles over 3.5 metric tons_57.png
+43,47,6,6,38,42,35,/content/generated_inputs_trafficsigns_blackout2/blackout_Turn left ahead_Wild animals crossing_Right-of-way at the next intersection_48.png
+55,51,6,5,50,45,13,/content/generated_inputs_trafficsigns_blackout2/blackout_End of no passing_Yield_Yield_49.png
+34,34,5,5,29,29,17,/content/generated_inputs_trafficsigns_blackout2/blackout_No entry_Speed limit_30 km-h_Speed limit_30 km-h_50.png
+31,30,5,5,25,25,1,/content/generated_inputs_trafficsigns_blackout2/blackout_Bumpy road_Bumpy road_No entry_51.png
+31,30,5,5,25,25,1,/content/generated_inputs_trafficsigns_blackout1/blackout_Bumpy road_Bumpy road_No entry_56.png
+36,39,5,6,30,34,38,/content/generated_inputs_trafficsigns_blackout2/blackout_Go straight or right_Keep right_Keep right_52.png
+36,39,5,6,30,34,38,/content/generated_inputs_trafficsigns_blackout1/blackout_Ahead only_Yield_Keep right_57.png
+36,39,5,6,30,34,38,/content/generated_inputs_trafficsigns_blackout0/blackout_Ahead only_Yield_Keep right_63.png
+48,47,6,5,43,42,4,/content/generated_inputs_trafficsigns_blackout2/blackout_End of speed limit_80 km-h_Speed limit_80 km-h_Speed limit_50 km-h_53.png
+48,47,6,5,43,42,4,/content/generated_inputs_trafficsigns_blackout1/blackout_End of no passing for vehicles over 3.5 metric tons_Bicycles crossing_General caution_59.png
+33,34,5,5,28,29,9,/content/generated_inputs_trafficsigns_blackout2/blackout_Go straight or right_Slippery road_Priority road_54.png
+48,48,6,6,43,43,10,/content/generated_inputs_trafficsigns_blackout2/blackout_Go straight or left_No vehicles_Vehicles over 3.5 metric tons prohibited_55.png
+35,36,6,6,30,31,7,/content/generated_inputs_trafficsigns_blackout2/blackout_Slippery road_Roundabout mandatory_Speed limit_50 km-h_56.png
+35,36,5,6,30,31,10,/content/generated_inputs_trafficsigns_blackout2/blackout_Yield_Speed limit_70 km-h_Road work_57.png
+42,41,5,5,37,36,31,/content/generated_inputs_trafficsigns_blackout2/blackout_Go straight or left_Speed limit_50 km-h_No passing for vehicles over 3.5 metric tons_58.png
+75,75,7,7,69,69,12,/content/generated_inputs_trafficsigns_blackout2/blackout_Speed limit_30 km-h_No passing for vehicles over 3.5 metric tons_No passing for vehicles over 3.5 metric tons_59.png
+71,71,7,6,65,65,20,/content/generated_inputs_trafficsigns_blackout2/blackout_Slippery road_No vehicles_Road work_61.png
+28,30,5,6,23,25,6,/content/generated_inputs_trafficsigns_blackout2/blackout_Speed limit_60 km-h_Roundabout mandatory_Speed limit_30 km-h_62.png
+42,42,5,5,37,37,4,/content/generated_inputs_trafficsigns_blackout2/blackout_Double curve_Turn right ahead_Roundabout mandatory_63.png
+28,28,5,6,22,23,1,/content/generated_inputs_trafficsigns_blackout2/blackout_Roundabout mandatory_No passing for vehicles over 3.5 metric tons_No passing for vehicles over 3.5 metric tons_64.png
+149,146,13,12,137,134,12,/content/generated_inputs_trafficsigns_blackout2/blackout_Roundabout mandatory_No passing for vehicles over 3.5 metric tons_No passing for vehicles over 3.5 metric tons_65.png
+59,60,6,5,54,54,12,/content/generated_inputs_trafficsigns_blackout2/blackout_Keep right_Priority road_Priority road_66.png
+35,37,6,6,30,32,1,/content/generated_inputs_trafficsigns_blackout2/blackout_Speed limit_30 km-h_No passing for vehicles over 3.5 metric tons_No passing for vehicles over 3.5 metric tons_67.png
+30,31,5,5,24,26,10,/content/generated_inputs_trafficsigns_blackout2/blackout_Road work_Stop_Bicycles crossing_68.png
+30,31,5,5,24,26,10,/content/generated_inputs_trafficsigns_blackout0/blackout_Yield_Priority road_Speed limit_100 km-h_84.png
+37,39,6,6,32,34,12,/content/generated_inputs_trafficsigns_blackout2/blackout_Road work_Speed limit_30 km-h_Priority road_69.png
+43,43,5,5,38,38,5,/content/generated_inputs_trafficsigns_blackout2/blackout_Speed limit_100 km-h_Speed limit_30 km-h_Speed limit_30 km-h_70.png
+37,37,5,5,32,32,5,/content/generated_inputs_trafficsigns_blackout2/blackout_Speed limit_100 km-h_Speed limit_60 km-h_Bicycles crossing_71.png
+36,35,6,5,31,30,1,/content/generated_inputs_trafficsigns_blackout2/blackout_Priority road_Speed limit_30 km-h_Speed limit_50 km-h_72.png
+34,34,6,6,29,29,4,/content/generated_inputs_trafficsigns_blackout2/blackout_Slippery road_Turn right ahead_Speed limit_100 km-h_73.png
+63,62,6,5,58,57,4,/content/generated_inputs_trafficsigns_blackout2/blackout_Dangerous curve to the left_Speed limit_120 km-h_Speed limit_70 km-h_74.png
+71,70,7,6,65,64,7,/content/generated_inputs_trafficsigns_blackout2/blackout_Ahead only_Speed limit_80 km-h_Priority road_75.png
+36,37,6,6,31,32,9,/content/generated_inputs_trafficsigns_blackout2/blackout_Speed limit_30 km-h_General caution_Slippery road_76.png
+36,37,6,6,31,32,9,/content/generated_inputs_trafficsigns_blackout0/blackout_Ahead only_No passing_No passing_92.png
+43,43,6,6,38,38,10,/content/generated_inputs_trafficsigns_blackout2/blackout_Speed limit_70 km-h_Speed limit_50 km-h_No passing for vehicles over 3.5 metric tons_77.png
+51,52,5,5,45,46,35,/content/generated_inputs_trafficsigns_blackout2/blackout_Road work_No passing for vehicles over 3.5 metric tons_No passing for vehicles over 3.5 metric tons_78.png
+38,36,5,5,33,31,13,/content/generated_inputs_trafficsigns_blackout2/blackout_Keep right_Yield_Yield_79.png
+59,59,6,5,54,53,38,/content/generated_inputs_trafficsigns_blackout2/blackout_Go straight or right_Keep right_Keep right_80.png
+86,83,8,8,78,75,19,/content/generated_inputs_trafficsigns_blackout2/blackout_No entry_Roundabout mandatory_Dangerous curve to the left_81.png
+40,44,5,5,34,39,39,/content/generated_inputs_trafficsigns_blackout2/blackout_Road work_Road work_Yield_82.png
+31,30,6,6,26,25,31,/content/generated_inputs_trafficsigns_blackout2/blackout_Keep right_Keep right_Speed limit_50 km-h_83.png
+31,30,6,6,26,25,31,/content/generated_inputs_trafficsigns_blackout0/blackout_General caution_Road work_Wild animals crossing_99.png
+41,43,6,6,36,38,9,/content/generated_inputs_trafficsigns_blackout2/blackout_End of no passing_No passing for vehicles over 3.5 metric tons_No passing for vehicles over 3.5 metric tons_84.png
+28,29,6,6,23,24,9,/content/generated_inputs_trafficsigns_blackout2/blackout_General caution_Speed limit_70 km-h_Bicycles crossing_85.png
+33,36,6,6,28,31,33,/content/generated_inputs_trafficsigns_blackout2/blackout_Keep left_Speed limit_120 km-h_No vehicles_86.png
+40,40,6,6,35,35,4,/content/generated_inputs_trafficsigns_blackout2/blackout_End of speed limit_80 km-h_Vehicles over 3.5 metric tons prohibited_Speed limit_30 km-h_87.png
+38,38,5,5,33,33,12,/content/generated_inputs_trafficsigns_blackout2/blackout_Priority road_No vehicles_Road work_88.png
+31,30,6,5,26,25,38,/content/generated_inputs_trafficsigns_blackout2/blackout_End of no passing_No entry_Yield_89.png
+44,89,5,8,39,82,38,/content/generated_inputs_trafficsigns_blackout2/blackout_Keep right_Speed limit_70 km-h_General caution_90.png
+133,116,12,10,122,105,18,/content/generated_inputs_trafficsigns_blackout2/blackout_General caution_Road narrows on the right_General caution_91.png
+26,26,6,5,21,21,10,/content/generated_inputs_trafficsigns_blackout2/blackout_Priority road_Slippery road_Slippery road_92.png
+72,80,6,8,66,73,38,/content/generated_inputs_trafficsigns_blackout2/blackout_Speed limit_80 km-h_Roundabout mandatory_Keep right_93.png
+35,34,6,5,30,29,35,/content/generated_inputs_trafficsigns_blackout2/blackout_Stop_Yield_Ahead only_94.png
+30,27,6,5,24,22,38,/content/generated_inputs_trafficsigns_blackout2/blackout_Yield_Speed limit_50 km-h_Keep right_95.png
+99,98,8,9,91,90,22,/content/generated_inputs_trafficsigns_blackout2/blackout_Yield_Road work_Yield_96.png
+40,46,5,5,35,41,14,/content/generated_inputs_trafficsigns_blackout2/blackout_No entry_No entry_Stop_97.png
+31,64,5,6,26,59,17,/content/generated_inputs_trafficsigns_blackout2/blackout_Bumpy road_Wild animals crossing_Traffic signals_99.png
+32,33,6,6,27,28,10,/content/generated_inputs_trafficsigns_blackout1/blackout_No passing for vehicles over 3.5 metric tons_Dangerous curve to the right_Speed limit_100 km-h_1.png
+54,50,6,5,49,45,22,/content/generated_inputs_trafficsigns_blackout1/blackout_Road work_Wild animals crossing_Traffic signals_2.png
+52,49,5,5,46,44,13,/content/generated_inputs_trafficsigns_blackout1/blackout_Ahead only_No vehicles_No vehicles_6.png
+35,35,5,6,30,30,0,/content/generated_inputs_trafficsigns_blackout1/blackout_Bumpy road_Bumpy road_Speed limit_80 km-h_7.png
+34,34,6,6,29,29,9,/content/generated_inputs_trafficsigns_blackout1/blackout_End of no passing_No vehicles_Dangerous curve to the right_8.png
+34,34,6,6,29,29,9,/content/generated_inputs_trafficsigns_blackout0/blackout_Ahead only_No vehicles_No passing_7.png
+26,27,5,5,21,21,3,/content/generated_inputs_trafficsigns_blackout1/blackout_Slippery road_No passing for vehicles over 3.5 metric tons_No passing for vehicles over 3.5 metric tons_11.png
+56,57,6,6,51,52,14,/content/generated_inputs_trafficsigns_blackout1/blackout_Stop_Speed limit_30 km-h_Speed limit_30 km-h_15.png
+56,57,6,6,51,52,14,/content/generated_inputs_trafficsigns_blackout0/blackout_Go straight or left_Speed limit_50 km-h_No passing for vehicles over 3.5 metric tons_14.png
+50,59,5,6,45,54,25,/content/generated_inputs_trafficsigns_blackout1/blackout_Road work_Dangerous curve to the right_Dangerous curve to the right_17.png
+85,82,7,8,78,75,13,/content/generated_inputs_trafficsigns_blackout1/blackout_Stop_Yield_Yield_20.png
+31,31,5,5,26,26,15,/content/generated_inputs_trafficsigns_blackout1/blackout_Keep right_Priority road_No vehicles_21.png
+42,45,5,6,36,40,38,/content/generated_inputs_trafficsigns_blackout1/blackout_Bumpy road_Bumpy road_Yield_24.png
+42,45,5,6,36,40,38,/content/generated_inputs_trafficsigns_blackout0/blackout_Bumpy road_Bumpy road_Yield_24.png
+30,30,6,6,25,25,7,/content/generated_inputs_trafficsigns_blackout1/blackout_End of speed limit_80 km-h_Speed limit_30 km-h_Speed limit_50 km-h_26.png
+36,38,5,6,31,33,14,/content/generated_inputs_trafficsigns_blackout1/blackout_Slippery road_Priority road_No vehicles_29.png
+36,38,5,6,31,33,14,/content/generated_inputs_trafficsigns_blackout0/blackout_Speed limit_60 km-h_Speed limit_50 km-h_Speed limit_50 km-h_30.png
+46,47,5,6,41,42,4,/content/generated_inputs_trafficsigns_blackout1/blackout_Speed limit_70 km-h_Stop_Road work_32.png
+32,32,6,6,27,27,12,/content/generated_inputs_trafficsigns_blackout1/blackout_Priority road_Traffic signals_Traffic signals_34.png
+32,32,6,6,27,27,12,/content/generated_inputs_trafficsigns_blackout0/blackout_Priority road_Yield_Priority road_35.png
+28,30,5,5,23,25,10,/content/generated_inputs_trafficsigns_blackout1/blackout_No passing_Dangerous curve to the right_Road work_35.png
+87,77,8,6,79,70,24,/content/generated_inputs_trafficsigns_blackout1/blackout_Road work_Children crossing_Road narrows on the right_37.png
+31,32,5,6,26,27,7,/content/generated_inputs_trafficsigns_blackout1/blackout_Priority road_No vehicles_Roundabout mandatory_39.png
+37,34,5,5,31,29,31,/content/generated_inputs_trafficsigns_blackout1/blackout_Keep right_Yield_Yield_41.png
+35,30,6,5,30,25,13,/content/generated_inputs_trafficsigns_blackout1/blackout_Go straight or right_Road work_Children crossing_42.png
+76,76,6,6,70,70,24,/content/generated_inputs_trafficsigns_blackout1/blackout_General caution_Priority road_Speed limit_50 km-h_44.png
+76,76,6,6,70,70,24,/content/generated_inputs_trafficsigns_blackout0/blackout_Speed limit_30 km-h_Speed limit_30 km-h_Road narrows on the right_43.png
+48,48,5,5,43,43,4,/content/generated_inputs_trafficsigns_blackout1/blackout_End of no passing for vehicles over 3.5 metric tons_Speed limit_30 km-h_Speed limit_30 km-h_48.png
+121,120,11,10,111,110,2,/content/generated_inputs_trafficsigns_blackout1/blackout_Ahead only_Speed limit_120 km-h_Yield_49.png
+65,59,6,5,60,54,10,/content/generated_inputs_trafficsigns_blackout1/blackout_Go straight or right_Road work_Road work_51.png
+35,35,6,6,30,29,2,/content/generated_inputs_trafficsigns_blackout1/blackout_Speed limit_30 km-h_Speed limit_80 km-h_Priority road_52.png
+47,48,6,6,42,42,9,/content/generated_inputs_trafficsigns_blackout1/blackout_End of no passing_No vehicles_Bicycles crossing_53.png
+72,64,7,6,66,59,31,/content/generated_inputs_trafficsigns_blackout1/blackout_Ahead only_No passing for vehicles over 3.5 metric tons_No passing for vehicles over 3.5 metric tons_54.png
+28,45,6,5,23,40,17,/content/generated_inputs_trafficsigns_blackout1/blackout_No entry_Speed limit_30 km-h_Speed limit_30 km-h_55.png
+28,45,6,5,23,40,17,/content/generated_inputs_trafficsigns_blackout0/blackout_Yield_Yield_Bicycles crossing_61.png
+51,50,5,5,46,45,8,/content/generated_inputs_trafficsigns_blackout1/blackout_Go straight or right_No vehicles_Speed limit_70 km-h_58.png
+51,50,5,5,46,45,8,/content/generated_inputs_trafficsigns_blackout0/blackout_Vehicles over 3.5 metric tons prohibited_Vehicles over 3.5 metric tons prohibited_Bicycles crossing_64.png
+83,69,7,6,76,63,13,/content/generated_inputs_trafficsigns_blackout1/blackout_Go straight or right_Road work_Priority road_60.png
+30,31,5,5,25,26,4,/content/generated_inputs_trafficsigns_blackout1/blackout_Yield_Bicycles crossing_No vehicles_61.png
+27,29,5,5,22,24,33,/content/generated_inputs_trafficsigns_blackout1/blackout_End of no passing_Right-of-way at the next intersection_Right-of-way at the next intersection_62.png
+27,29,5,5,22,24,33,/content/generated_inputs_trafficsigns_blackout0/blackout_Speed limit_50 km-h_Wild animals crossing_Right-of-way at the next intersection_68.png
+30,31,6,6,25,26,2,/content/generated_inputs_trafficsigns_blackout1/blackout_Go straight or left_No passing for vehicles over 3.5 metric tons_No passing for vehicles over 3.5 metric tons_63.png
+57,58,5,5,52,53,2,/content/generated_inputs_trafficsigns_blackout1/blackout_Right-of-way at the next intersection_Wild animals crossing_Right-of-way at the next intersection_64.png
+29,31,5,6,24,26,17,/content/generated_inputs_trafficsigns_blackout1/blackout_Stop_Bicycles crossing_No entry_65.png
+49,47,5,5,43,41,11,/content/generated_inputs_trafficsigns_blackout1/blackout_Double curve_Slippery road_No vehicles_66.png
+53,52,6,5,48,47,4,/content/generated_inputs_trafficsigns_blackout1/blackout_No passing_Vehicles over 3.5 metric tons prohibited_Right-of-way at the next intersection_67.png
+53,52,6,5,48,47,4,/content/generated_inputs_trafficsigns_blackout0/blackout_Ahead only_No vehicles_Speed limit_70 km-h_71.png
+38,38,5,5,33,33,2,/content/generated_inputs_trafficsigns_blackout1/blackout_No passing_No passing for vehicles over 3.5 metric tons_No passing for vehicles over 3.5 metric tons_68.png
+60,57,6,6,55,52,18,/content/generated_inputs_trafficsigns_blackout1/blackout_Speed limit_70 km-h_General caution_General caution_70.png
+46,41,6,6,41,36,13,/content/generated_inputs_trafficsigns_blackout1/blackout_Speed limit_30 km-h_Speed limit_30 km-h_No vehicles_71.png
+46,41,6,6,41,36,13,/content/generated_inputs_trafficsigns_blackout0/blackout_Bumpy road_Bumpy road_Yield_75.png
+31,33,5,6,26,27,25,/content/generated_inputs_trafficsigns_blackout1/blackout_Go straight or left_No vehicles_Dangerous curve to the right_72.png
+44,43,6,6,39,38,15,/content/generated_inputs_trafficsigns_blackout1/blackout_Slippery road_Turn right ahead_Road work_73.png
+44,43,6,6,39,38,15,/content/generated_inputs_trafficsigns_blackout0/blackout_Slippery road_Turn right ahead_Road work_78.png
+55,55,6,6,50,50,12,/content/generated_inputs_trafficsigns_blackout1/blackout_No passing for vehicles over 3.5 metric tons_Priority road_Priority road_75.png
+55,55,6,6,50,50,12,/content/generated_inputs_trafficsigns_blackout0/blackout_No passing for vehicles over 3.5 metric tons_Priority road_Priority road_80.png
+106,94,10,9,97,86,24,/content/generated_inputs_trafficsigns_blackout1/blackout_Keep right_Speed limit_70 km-h_Road narrows on the right_76.png
+41,41,5,5,36,36,21,/content/generated_inputs_trafficsigns_blackout1/blackout_Go straight or left_No vehicles_Speed limit_100 km-h_77.png
+37,38,5,5,32,32,21,/content/generated_inputs_trafficsigns_blackout1/blackout_Double curve_Turn right ahead_Double curve_78.png
+46,46,6,6,41,41,42,/content/generated_inputs_trafficsigns_blackout1/blackout_Pedestrians_Yield_Yield_79.png
+57,52,5,5,52,46,25,/content/generated_inputs_trafficsigns_blackout1/blackout_Go straight or right_General caution_Road work_80.png
+29,31,5,6,23,26,37,/content/generated_inputs_trafficsigns_blackout1/blackout_Go straight or left_Ahead only_Go straight or left_81.png
+30,30,6,6,25,25,3,/content/generated_inputs_trafficsigns_blackout1/blackout_Speed limit_60 km-h_End of all speed and passing limits_No vehicles_82.png
+124,112,11,10,114,103,18,/content/generated_inputs_trafficsigns_blackout1/blackout_No passing_Dangerous curve to the right_Children crossing_83.png
+34,36,5,5,29,31,4,/content/generated_inputs_trafficsigns_blackout1/blackout_Speed limit_70 km-h_Yield_Yield_84.png
+35,35,6,6,30,30,13,/content/generated_inputs_trafficsigns_blackout1/blackout_Keep right_Keep right_Go straight or right_85.png
+63,70,5,7,58,64,12,/content/generated_inputs_trafficsigns_blackout1/blackout_Right-of-way at the next intersection_Wild animals crossing_Right-of-way at the next intersection_86.png
+28,29,6,6,23,24,12,/content/generated_inputs_trafficsigns_blackout1/blackout_Traffic signals_Priority road_Priority road_87.png
+99,110,8,10,91,101,38,/content/generated_inputs_trafficsigns_blackout1/blackout_Yield_Yield_Keep right_88.png
+35,36,6,6,30,31,7,/content/generated_inputs_trafficsigns_blackout1/blackout_Dangerous curve to the right_Speed limit_30 km-h_Bicycles crossing_89.png
+40,38,5,6,35,33,11,/content/generated_inputs_trafficsigns_blackout1/blackout_End of no passing for vehicles over 3.5 metric tons_Bicycles crossing_Beware of ice-snow_90.png
+59,58,6,5,54,53,2,/content/generated_inputs_trafficsigns_blackout1/blackout_Slippery road_Turn right ahead_Double curve_91.png
+28,28,6,6,23,23,1,/content/generated_inputs_trafficsigns_blackout1/blackout_Traffic signals_Speed limit_20 km-h_Speed limit_20 km-h_92.png
+40,40,5,5,35,35,5,/content/generated_inputs_trafficsigns_blackout1/blackout_End of all speed and passing limits_Yield_Speed limit_30 km-h_93.png
+105,97,9,9,96,89,25,/content/generated_inputs_trafficsigns_blackout1/blackout_Speed limit_50 km-h_Dangerous curve to the right_Road work_94.png
+28,27,5,5,22,22,8,/content/generated_inputs_trafficsigns_blackout1/blackout_Ahead only_No vehicles_No vehicles_95.png
+40,41,5,6,35,36,32,/content/generated_inputs_trafficsigns_blackout1/blackout_Keep right_General caution_General caution_96.png
+98,97,9,8,90,89,28,/content/generated_inputs_trafficsigns_blackout1/blackout_Ahead only_End of all speed and passing limits_No vehicles_97.png
+30,31,5,6,25,26,4,/content/generated_inputs_trafficsigns_blackout1/blackout_Go straight or left_No passing for vehicles over 3.5 metric tons_No passing for vehicles over 3.5 metric tons_98.png
+42,46,5,5,37,41,39,/content/generated_inputs_trafficsigns_blackout1/blackout_Stop_Yield_Keep left_99.png
+52,50,5,6,47,44,28,/content/generated_inputs_trafficsigns_blackout0/blackout_Stop_Yield_Yield_4.png
+37,36,5,5,32,30,11,/content/generated_inputs_trafficsigns_blackout0/blackout_Stop_Turn right ahead_Right-of-way at the next intersection_8.png
+74,73,7,6,68,67,38,/content/generated_inputs_trafficsigns_blackout0/blackout_Go straight or right_Road work_Keep right_10.png
+30,30,6,6,25,25,2,/content/generated_inputs_trafficsigns_blackout0/blackout_Yield_Speed limit_50 km-h_Speed limit_50 km-h_12.png
+63,64,5,5,58,59,2,/content/generated_inputs_trafficsigns_blackout0/blackout_Speed limit_50 km-h_Speed limit_30 km-h_Speed limit_30 km-h_16.png
+41,41,5,6,36,36,5,/content/generated_inputs_trafficsigns_blackout0/blackout_End of no passing for vehicles over 3.5 metric tons_Bicycles crossing_Speed limit_80 km-h_20.png
+32,32,6,5,26,26,5,/content/generated_inputs_trafficsigns_blackout0/blackout_Speed limit_20 km-h_Speed limit_50 km-h_Speed limit_50 km-h_22.png
+41,39,5,5,36,34,26,/content/generated_inputs_trafficsigns_blackout0/blackout_Go straight or right_No vehicles_No vehicles_26.png
+71,62,6,5,65,57,30,/content/generated_inputs_trafficsigns_blackout0/blackout_Beware of ice-snow_Yield_Bicycles crossing_28.png
+43,48,5,5,38,43,11,/content/generated_inputs_trafficsigns_blackout0/blackout_Road work_Road work_Right-of-way at the next intersection_33.png
+33,36,5,6,28,31,2,/content/generated_inputs_trafficsigns_blackout0/blackout_Beware of ice-snow_Speed limit_50 km-h_Speed limit_50 km-h_37.png
+38,38,6,6,32,33,7,/content/generated_inputs_trafficsigns_blackout0/blackout_Traffic signals_No vehicles_Right-of-way at the next intersection_45.png
+48,53,5,6,43,48,2,/content/generated_inputs_trafficsigns_blackout0/blackout_Ahead only_End of all speed and passing limits_Speed limit_30 km-h_46.png
+36,35,6,6,30,30,10,/content/generated_inputs_trafficsigns_blackout0/blackout_No passing for vehicles over 3.5 metric tons_Speed limit_30 km-h_Right-of-way at the next intersection_47.png
+71,75,6,7,65,69,1,/content/generated_inputs_trafficsigns_blackout0/blackout_Speed limit_70 km-h_Speed limit_30 km-h_Speed limit_30 km-h_48.png
+58,57,6,6,53,52,26,/content/generated_inputs_trafficsigns_blackout0/blackout_Speed limit_100 km-h_General caution_Traffic signals_49.png
+44,45,6,6,39,40,12,/content/generated_inputs_trafficsigns_blackout0/blackout_Vehicles over 3.5 metric tons prohibited_Vehicles over 3.5 metric tons prohibited_Priority road_50.png
+88,79,8,7,80,72,11,/content/generated_inputs_trafficsigns_blackout0/blackout_End of no passing for vehicles over 3.5 metric tons_Bicycles crossing_Traffic signals_52.png
+33,36,5,6,28,31,17,/content/generated_inputs_trafficsigns_blackout0/blackout_Keep right_Dangerous curve to the right_Children crossing_53.png
+29,29,5,6,24,24,8,/content/generated_inputs_trafficsigns_blackout0/blackout_Go straight or right_Speed limit_50 km-h_End of speed limit_80 km-h_55.png
+50,50,5,5,45,45,36,/content/generated_inputs_trafficsigns_blackout0/blackout_Go straight or right_Yield_Go straight or right_56.png
+44,41,5,6,39,36,13,/content/generated_inputs_trafficsigns_blackout0/blackout_Yield_Yield_Speed limit_50 km-h_58.png
+39,37,5,6,34,32,13,/content/generated_inputs_trafficsigns_blackout0/blackout_End of no passing_Speed limit_80 km-h_Yield_59.png
+70,59,7,5,64,54,13,/content/generated_inputs_trafficsigns_blackout0/blackout_Yield_Go straight or left_Yield_60.png
+82,86,8,8,75,79,21,/content/generated_inputs_trafficsigns_blackout0/blackout_Keep right_Road work_No entry_62.png
+53,54,5,6,47,49,36,/content/generated_inputs_trafficsigns_blackout0/blackout_Go straight or right_Go straight or right_Priority road_65.png
+41,38,5,5,36,33,13,/content/generated_inputs_trafficsigns_blackout0/blackout_No passing for vehicles over 3.5 metric tons_Turn right ahead_Yield_66.png
+84,74,8,6,77,68,11,/content/generated_inputs_trafficsigns_blackout0/blackout_Road work_Bicycles crossing_Speed limit_80 km-h_67.png
+34,34,5,5,29,29,5,/content/generated_inputs_trafficsigns_blackout0/blackout_Slippery road_Children crossing_Slippery road_69.png
+67,68,6,7,61,62,13,/content/generated_inputs_trafficsigns_blackout0/blackout_Go straight or right_No vehicles_No vehicles_70.png
+51,49,5,5,46,44,5,/content/generated_inputs_trafficsigns_blackout0/blackout_Roundabout mandatory_No passing for vehicles over 3.5 metric tons_No passing for vehicles over 3.5 metric tons_72.png
+32,33,5,5,27,28,8,/content/generated_inputs_trafficsigns_blackout0/blackout_Dangerous curve to the left_No entry_Speed limit_50 km-h_73.png
+48,48,6,6,42,42,35,/content/generated_inputs_trafficsigns_blackout0/blackout_End of no passing for vehicles over 3.5 metric tons_Yield_Yield_74.png
+112,104,10,9,103,95,29,/content/generated_inputs_trafficsigns_blackout0/blackout_Speed limit_30 km-h_Children crossing_Speed limit_20 km-h_76.png
+32,35,5,6,27,30,38,/content/generated_inputs_trafficsigns_blackout0/blackout_Go straight or left_No vehicles_Dangerous curve to the right_77.png
+58,65,6,6,53,60,6,/content/generated_inputs_trafficsigns_blackout0/blackout_Keep right_Speed limit_30 km-h_Speed limit_30 km-h_81.png
+53,52,6,5,48,47,16,/content/generated_inputs_trafficsigns_blackout0/blackout_Speed limit_30 km-h_No passing for vehicles over 3.5 metric tons_No passing for vehicles over 3.5 metric tons_83.png
+35,33,6,5,30,28,22,/content/generated_inputs_trafficsigns_blackout0/blackout_End of no passing_Children crossing_Yield_85.png
+52,53,5,6,47,48,7,/content/generated_inputs_trafficsigns_blackout0/blackout_Ahead only_Speed limit_120 km-h_Bicycles crossing_86.png
+49,48,5,6,44,43,11,/content/generated_inputs_trafficsigns_blackout0/blackout_Beware of ice-snow_Right-of-way at the next intersection_Right-of-way at the next intersection_87.png
+44,43,6,5,39,38,4,/content/generated_inputs_trafficsigns_blackout0/blackout_Go straight or right_Speed limit_80 km-h_Yield_88.png
+50,50,6,5,44,44,35,/content/generated_inputs_trafficsigns_blackout0/blackout_Ahead only_Yield_No passing_89.png
+65,61,6,6,60,56,11,/content/generated_inputs_trafficsigns_blackout0/blackout_General caution_Yield_Yield_90.png
+55,51,6,6,50,46,31,/content/generated_inputs_trafficsigns_blackout0/blackout_Ahead only_Speed limit_80 km-h_Priority road_91.png
+63,56,5,5,58,51,25,/content/generated_inputs_trafficsigns_blackout0/blackout_No entry_Road work_Road work_93.png
+39,39,5,5,34,33,20,/content/generated_inputs_trafficsigns_blackout0/blackout_General caution_Yield_Keep right_94.png
+39,38,5,6,33,32,12,/content/generated_inputs_trafficsigns_blackout0/blackout_Yield_Yield_Priority road_95.png
+86,82,8,8,79,75,13,/content/generated_inputs_trafficsigns_blackout0/blackout_No passing for vehicles over 3.5 metric tons_Dangerous curve to the left_Dangerous curve to the left_96.png
+51,48,6,6,46,43,26,/content/generated_inputs_trafficsigns_blackout0/blackout_Keep right_Roundabout mandatory_Traffic signals_97.png
+31,32,6,6,26,27,8,/content/generated_inputs_trafficsigns_blackout0/blackout_Road work_General caution_Road work_98.png
