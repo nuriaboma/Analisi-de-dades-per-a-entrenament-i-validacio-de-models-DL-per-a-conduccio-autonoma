@@ -9,6 +9,7 @@ Per muntar l'entorn de  `Python 2.7`, `keras 2.0.8` i `tensorflow-gpu 1.3` es ne
 El codi per muntar-lo està al principi de cada `Jupyter Notebook` en el que s'ha necessitat aquest entorn.
 
 Dades necessàries:
+
 [ImageNet](https://drive.google.com/file/d/1aQ3sbgbaT1jJTzH7KmQGX4Y_oxRwBF7P/view?usp=sharing)
 
 [ImageNet(40 imgs)](https://drive.google.com/file/d/10O1U3IxP-Q4Zni0D6UPXUdmk95pKVxy8/view?usp=sharing)
