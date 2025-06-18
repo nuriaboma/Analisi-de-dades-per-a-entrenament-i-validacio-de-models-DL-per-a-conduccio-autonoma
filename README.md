@@ -20,8 +20,8 @@ Bases de dades necessàries:
 
 Per als experiments de DeepXplore i DLFuzz amb la base de dades GTSRB i els Models 1, 2 i 3 els pesos necessaris són:
 
-Els Models 1, 2 i 3 estan [aquí](https://drive.google.com/file/d/1o7V7NWVz8AS5naTU_9UI8DqEqIlA1nuG/view?usp=sharing).
+Els pesos dels Models 1, 2 i 3 estan [aquí](https://drive.google.com/file/d/1o7V7NWVz8AS5naTU_9UI8DqEqIlA1nuG/view?usp=sharing).
 
 Els pesos dels Models 1, 2 i 3 reentrenats estan [aquí](https://drive.google.com/file/d/1c0lI5rSPw8CKc2MJIOtdxWfGtHruZWj5/view?usp=sharing).
 
-Els pesos de les diferents versions dels Models 1, 2 i 3 per a l'experiment 15 estan [aquí](https://drive.google.com/file/d/1P4xEysFWs5cq4ybc-PkMXbVgJxNahvGY/view?usp=sharing)
+Els pesos de les diferents versions dels Models 1, 2 i 3 per a l'experiment 15 estan [aquí](https://drive.google.com/file/d/1P4xEysFWs5cq4ybc-PkMXbVgJxNahvGY/view?usp=sharing).
